@@ -48,7 +48,7 @@ export default function App() {
   const [searchQuery, setSearchQuery] = useState("");
   const [isLoading, setIsLoading] = useState(false);
   const [isSidebarOpen, setIsSidebarOpen] = useState(false);
-  const [layoutMode, setLayoutMode] = useState<"grid" | "list">("list");
+  const [layoutMode, setLayoutMode] = useState<"list" | "grid">("list");
 
   // Sorting state
   const [sortBy, setSortBy] = useState<"name" | "size">("name");
@@ -377,6 +377,67 @@ export default function App() {
     window.open(`/api/raw?path=${encodeURIComponent(item.path)}&download=true${tokenParams}`, "_blank");
   };
 
+  // High-fidelity tabbed iframe renderer injection
+  const handleIframeTabPreview = (item: DriveItem) => {
+    const overrideQuery = Object.entries(getHeaders())
+      .filter(([k]) => k !== "Content-Type")
+      .map(([k, v]) => `${k.toLowerCase()}=${encodeURIComponent(v)}`)
+      .join("&");
+
+    const tokenParams = overrideQuery ? `&${overrideQuery}` : "";
+    const rawUrl = `/api/raw?path=${encodeURIComponent(item.path)}${tokenParams}`;
+
+    const previewTab = window.open("", "_blank");
+    if (!previewTab) {
+      alert("Popup blocked! Please allow popups to view this frame preview layout.");
+      return;
+    }
+
+    // Write interactive workspace frame markup cleanly to bypass raw plain layout boundaries
+    previewTab.document.write(`
+      <!DOCTYPE html>
+      <html lang="en">
+      <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>Desktop Preview - ${item.name}</title>
+        <script src="https://cdn.tailwindcss.com"></script>
+        <style>
+          body { background-color: #f1f5f9; margin: 0; font-family: system-ui, sans-serif; }
+        </style>
+      </head>
+      <body class="h-screen flex flex-col overflow-hidden">
+        <header class="h-12 bg-white border-b border-slate-200 flex items-center justify-between px-6 z-10 shrink-0">
+          <div class="flex items-center gap-3">
+            <span class="w-3 h-3 rounded-full bg-red-400"></span>
+            <span class="w-3 h-3 rounded-full bg-amber-400"></span>
+            <span class="w-3 h-3 rounded-full bg-emerald-400"></span>
+            <h1 class="text-xs font-bold text-slate-700 ml-2 tracking-tight truncate max-w-xs">${item.name}</h1>
+          </div>
+          <div class="bg-slate-100 rounded-lg px-4 py-1 text-[11px] font-mono text-slate-500 border border-slate-200/60 max-w-md truncate">
+            ${window.location.origin}${item.path}
+          </div>
+          <div class="text-xs font-semibold text-slate-400 uppercase tracking-widest text-[10px]">
+            Desktop Workspace View Mode
+          </div>
+        </header>
+
+        <main class="flex-1 p-6 flex justify-center items-center overflow-auto bg-slate-100">
+          <div class="w-full h-full max-w-6xl bg-white shadow-2xl rounded-xl border border-slate-200/80 overflow-hidden flex flex-col transition-all">
+            <iframe 
+              src="${rawUrl}" 
+              class="w-full h-full flex-1 border-none bg-white" 
+              title="Desktop Document Frame Sandbox View"
+              sandbox="allow-scripts allow-same-origin allow-forms"
+            ></iframe>
+          </div>
+        </main>
+      </body>
+      </html>
+    `);
+    previewTab.document.close();
+  };
+
   const handleRestoreVersion = async (file: DriveItem, rollbackCommit: CommitInfo) => {
     try {
       const overrideQuery = Object.entries(getHeaders())
@@ -507,7 +568,7 @@ export default function App() {
       {/* Main Flex Column for Header and Content */}
       <div className="flex-1 flex flex-col overflow-hidden relative">
         {/* 1. Header Navigation Bar */}
-        <header className="h-14 bg-white border-b border-slate-200 flex items-center justify-between px-4 shrink-0 select-none z-20">
+        <header class="h-14 bg-white border-b border-slate-200 flex items-center justify-between px-4 shrink-0 select-none z-20">
           <div className="flex items-center gap-3 w-64 md:w-auto">
             <button
               onClick={() => setIsSidebarOpen(!isSidebarOpen)}
@@ -753,10 +814,11 @@ export default function App() {
               </div>
             ) : (
               <div className="bg-white rounded-xl border border-slate-200 overflow-x-auto shadow-xs w-full max-w-full">
-                <table className="w-full text-left border-collapse min-w-[500px]">
+                <table className="w-full text-left border-collapse min-w-[600px]">
                   <thead className="bg-slate-50 border-b border-slate-200 select-none">
                     <tr className="text-[10px] uppercase tracking-wider text-slate-400 font-bold">
                       <th className="px-4 py-2.5 font-semibold">Name</th>
+                      <th className="px-4 py-2.5 font-semibold text-center">Preview</th>
                       <th className="px-4 py-2.5 font-semibold hidden md:table-cell">Type</th>
                       <th className="px-4 py-2.5 font-semibold hidden sm:table-cell">Last Modified</th>
                       <th className="px-4 py-2.5 font-semibold col-span-1">Size</th>
@@ -787,6 +849,22 @@ export default function App() {
                             <span className="font-semibold text-sm text-slate-800 hover:text-blue-600 transition-colors truncate max-w-[130px] sm:max-w-xs md:max-w-md">
                               {file.name}
                             </span>
+                          </td>
+                          <td className="px-4 py-2 text-center">
+                            {!isDir ? (
+                              <button
+                                onClick={(e) => {
+                                  e.stopPropagation();
+                                  handleIframeTabPreview(file);
+                                }}
+                                title="Open Workspace Frame Preview"
+                                className="p-1.5 hover:bg-blue-50 text-blue-500 hover:text-blue-600 rounded-lg transition-colors inline-flex items-center justify-center cursor-pointer"
+                              >
+                                <Eye className="w-4 h-4" />
+                              </button>
+                            ) : (
+                              <span className="text-slate-300 text-xs select-none">—</span>
+                            )}
                           </td>
                           <td className="px-4 py-2 text-xs text-slate-500 hidden md:table-cell select-none">
                             {isDir ? "Folder" : getFileTypeLabel(file.name, file.type)}
