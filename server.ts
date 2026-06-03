@@ -18,9 +18,9 @@ async function startServer() {
   const app = express();
   const PORT = 3000;
 
-  // Increase payload limit for file uploads (defaults to 100kb, increase to 50MB)
-  app.use(express.json({ limit: "50mb" }));
-  app.use(express.urlencoded({ limit: "50mb", extended: true }));
+  // Remove payload limits for file uploads (set to infinity/max integer practically)
+  app.use(express.json({ limit: "500000000gb" }));
+  app.use(express.urlencoded({ limit: "500000000gb", extended: true }));
 
   // Helper to extract GitHub credentials from headers, query parameters, or environment
   function getGithubConfig(req: express.Request, requireToken = false) {
