@@ -10,10 +10,8 @@ import {
   Share2,
   CheckCircle,
   FileText,
-  Calendar,
   Layers,
   Copy,
-  FolderOpen,
   RefreshCw,
   Clock,
   ExternalLink,
@@ -53,7 +51,6 @@ export default function FilePreviewModal({ isOpen, onClose, item, headers }: Pro
     if (!item) return;
     setLoadingText(true);
     try {
-      // Append query parameters if header overrides exist (for local testing credentials)
       const overrideQuery = Object.entries(headers)
         .map(([k, v]) => `${k.toLowerCase()}=${encodeURIComponent(v)}`)
         .join("&");
@@ -76,10 +73,10 @@ export default function FilePreviewModal({ isOpen, onClose, item, headers }: Pro
 
   if (!isOpen || !item) return null;
 
-  // Build the permanent public sharing URL
-  const getShareUrl = () => {
-    // Generate private token-backed raw access URL for this specific path
+  // Custom function that EXPLICITLY blocks content-type from being appended
+  const getCleanShareUrl = () => {
     const overrideQuery = Object.entries(headers)
+      .filter(([k]) => k.toLowerCase() !== "content-type") // Completely filters out any content-type header
       .map(([k, v]) => `${k.toLowerCase()}=${encodeURIComponent(v)}`)
       .join("&");
 
@@ -88,7 +85,7 @@ export default function FilePreviewModal({ isOpen, onClose, item, headers }: Pro
   };
 
   const handleCopyLink = () => {
-    navigator.clipboard.writeText(getShareUrl());
+    navigator.clipboard.writeText(getCleanShareUrl());
     setCopied(true);
     setTimeout(() => {
       setCopied(false);
@@ -96,7 +93,6 @@ export default function FilePreviewModal({ isOpen, onClose, item, headers }: Pro
   };
 
   const handleDownload = () => {
-    // Append headers as query params to authenticate local credentials if present
     const overrideQuery = Object.entries(headers)
       .map(([k, v]) => `${k.toLowerCase()}=${encodeURIComponent(v)}`)
       .join("&");
@@ -105,11 +101,11 @@ export default function FilePreviewModal({ isOpen, onClose, item, headers }: Pro
     window.open(`/api/raw?path=${encodeURIComponent(item.path)}&download=true${tokenParams}`, "_blank");
   };
 
-  const shareUrl = getShareUrl();
+  const shareUrl = getCleanShareUrl();
 
   return (
-    <div className="fixed inset-0 bg-slate-900/60 backdrop-blur-sm z-50 flex items-center justify-center p-4">
-      <div className="bg-white rounded-2xl w-full max-w-3xl shadow-xl border border-slate-100 overflow-hidden flex flex-col md:flex-row max-h-[85vh]">
+    <div className="fixed inset-0 bg-slate-900/60 backdrop-blur-sm z-50 flex items-center justify-center p-4 overflow-y-auto">
+      <div className="bg-white rounded-2xl w-full max-w-3xl shadow-xl border border-slate-100 overflow-hidden flex flex-col md:flex-row my-auto max-h-none md:max-h-[85vh]">
         {/* Left Side: Preview Pane */}
         <div className="flex-1 bg-slate-50 border-r border-slate-100 p-6 flex flex-col justify-center items-center min-h-[300px] md:min-h-[auto] max-h-[440px] md:max-h-none overflow-hidden relative">
           <div className="absolute top-4 left-4 bg-slate-100/80 px-2.5 py-1 rounded-full text-[10px] font-bold text-slate-500 uppercase tracking-wider backdrop-blur-xs">
@@ -186,8 +182,8 @@ export default function FilePreviewModal({ isOpen, onClose, item, headers }: Pro
           )}
         </div>
 
-        {/* Right Side: Meta Info & Actions */}
-        <div className="w-full md:w-80 p-6 flex flex-col justify-between max-h-[50vh] md:max-h-none overflow-y-auto">
+        {/* Right Side: Meta Info & Actions (Fills properly on mobile view without internal scroll trapped layout) */}
+        <div className="w-full md:w-80 p-6 flex flex-col justify-between overflow-y-visible md:max-h-none md:overflow-y-auto">
           {/* Top Panel */}
           <div>
             <div className="flex items-start justify-between gap-4 mb-4">
@@ -274,7 +270,7 @@ export default function FilePreviewModal({ isOpen, onClose, item, headers }: Pro
                 href={shareUrl}
                 target="_blank"
                 rel="noreferrer"
-                className="w-full py-2 bg-slate-100 hover:bg-slate-150 text-slate-700 font-semibold text-xs rounded-xl flex items-center justify-center gap-1.5 transition-colors text-center"
+                className="w-full py-2 bg-emerald-600 hover:bg-emerald-700 text-white font-semibold text-xs rounded-xl flex items-center justify-center gap-1.5 shadow-sm shadow-emerald-600/10 transition-colors text-center"
               >
                 <ExternalLink className="w-3.5 h-3.5" /> View Raw
               </a>
