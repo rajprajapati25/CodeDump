@@ -1,0 +1,6 @@
+{
+  "name": "GitHub Cloud Drive",
+  "description": "A secure personal cloud storage replica of Google Drive powered entirely by a private GitHub Repository.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

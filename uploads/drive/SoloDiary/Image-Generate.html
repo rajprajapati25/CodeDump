@@ -1,0 +1,104 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Image Grid with Dates</title>
+</head>
+<body>
+    <button class="print-button" onclick="window.print()">Print This Page 🖶️</button>
+
+    <div class="grid-container">
+        <script>
+            //to get list use CMD: dir "*.jpg" /T:W /-C
+            const imagesAndDates = [
+                ["image_01.jpg", "01 February 2026 ● 09:30 AM"],
+                ["image_02.jpg", "04 February 2026 ● 11:45 AM"],
+                ["image_03.jpg", "08 February 2026 ● 02:15 PM"],
+                ["image_04.jpg", "10 February 2026 ● 05:20 PM"],
+                ["image_05.jpg", "15 February 2026 ● 08:00 AM"],
+                ["image_06.jpg", "20 February 2026 ● 03:30 PM"],
+                ["image_07.jpg", "22 February 2026 ● 07:45 AM"],
+                ["image_08.jpg", "24 February 2026 ● 10:10 AM"],
+                ["image_09.jpg", "28 February 2026 ● 04:55 PM"]
+            ];
+
+            function createGrid() {
+                const container = document.querySelector(".grid-container");
+
+                imagesAndDates.forEach(([img, date], index) => {
+                    const item = document.createElement("div");
+                    item.className = "grid-item";
+                    item.innerHTML = `
+                        <img src="${img}" alt="Image ${index + 1}">
+                        <div class="date">${date}</div>
+                    `;
+                    container.appendChild(item);
+                });
+            }
+
+            // Call the function when the page loads
+            window.onload = createGrid;
+        </script>
+    </div>
+</body>
+<style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 20px;
+        }
+        .print-button {
+            margin-bottom: 20px;
+            padding: 10px 20px;
+            background-color: #4CAF50;
+            color: white;
+            border: none;
+            border-radius: 4px;
+            cursor: pointer;
+            font-size: 16px;
+        }
+        .print-button:hover {
+            background-color: #45a049;
+        }
+        .grid-container {
+            display: grid;
+            grid-template-columns: repeat(4, 1fr);
+            gap: 5px;
+            width: 100%;
+            margin-bottom: 20px;
+            page-break-inside: avoid;
+        }
+        .grid-item {
+            text-align: center;
+            border: 1px solid #ddd;
+            padding: 2px;
+            break-inside: avoid;
+        }
+        .grid-item img {
+            max-width: 100%;
+            height: auto;
+            display: block;
+            margin: 0 auto;
+        }
+        .date {
+            margin-top: 2px;
+            font-size: 10px;
+        }
+        @media print {
+            @page {
+                size: A4;
+                margin: 5mm;
+            }
+            body {
+                margin: 0;
+            }
+            .print-button {
+                display: none;
+            }
+            .grid-container {
+                width: 100%;
+                page-break-inside: avoid;
+            }
+        }
+    </style>
+</html>
