@@ -80,8 +80,12 @@ export default function FilePreviewModal({ isOpen, onClose, item, headers }: Pro
       .map(([k, v]) => `${k.toLowerCase()}=${encodeURIComponent(v)}`)
       .join("&");
 
-    const tokenParams = overrideQuery ? `&${overrideQuery}` : "";
-    return `${window.location.origin}/api/raw?path=${encodeURIComponent(item.path)}${tokenParams}`;
+    const tokenParams = overrideQuery ? `?${overrideQuery}` : "";
+    const cleanPath = item.path
+      .split("/")
+      .map((seg) => encodeURIComponent(seg))
+      .join("/");
+    return `${window.location.origin}/raw/${cleanPath}${tokenParams}`;
   };
 
   const handleCopyLink = () => {
