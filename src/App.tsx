@@ -41,90 +41,9 @@ import VersionHistoryDrawer from "./components/VersionHistoryDrawer";
 import { DriveItem, GithubCredentials, CommitInfo } from "./types";
 import CodeDump from "../assets/codedump_64x64.png";
 
-function parseUrlToState(pathname: string) {
-  // Decode pathname to handle spaces and special characters
-  const decodedPath = decodeURIComponent(pathname);
-  
-  // Strip trailing slash unless it's just "/"
-  let cleanPath = decodedPath;
-  if (cleanPath.length > 1 && cleanPath.endsWith("/")) {
-    cleanPath = cleanPath.slice(0, -1);
-  }
-
-  let view: "drive" | "trash" = "drive";
-  let folderPath = "uploads/drive";
-  let fileName: string | null = null;
-
-  if (cleanPath.startsWith("/trash")) {
-    view = "trash";
-    const relative = cleanPath.substring("/trash".length);
-    if (relative) {
-      const parts = relative.split("/").filter(Boolean);
-      if (parts.length > 0) {
-        const lastPart = parts[parts.length - 1];
-        if (lastPart.includes(".")) {
-          // It's a file
-          fileName = lastPart;
-          const folderRelative = parts.slice(0, -1).join("/");
-          folderPath = "uploads/trash" + (folderRelative ? "/" + folderRelative : "");
-        } else {
-          // It's a folder
-          folderPath = "uploads/trash/" + parts.join("/");
-        }
-      } else {
-        folderPath = "uploads/trash";
-      }
-    } else {
-      folderPath = "uploads/trash";
-    }
-  } else {
-    view = "drive";
-    const relative = cleanPath; // e.g. /SoloDiary/PaymentBilles/Pay-2026/Akg_Slip_S1870509985840.png
-    const parts = relative.split("/").filter(Boolean);
-    if (parts.length > 0) {
-      const lastPart = parts[parts.length - 1];
-      if (lastPart.includes(".")) {
-        // It's a file
-        fileName = lastPart;
-        const folderRelative = parts.slice(0, -1).join("/");
-        folderPath = "uploads/drive" + (folderRelative ? "/" + folderRelative : "");
-      } else {
-        // It's a folder
-        folderPath = "uploads/drive/" + parts.join("/");
-      }
-    } else {
-      folderPath = "uploads/drive";
-    }
-  }
-
-  return { view, folderPath, fileName };
-}
-
-function currentPathToUrl(path: string, currentView: "drive" | "trash") {
-  if (currentView === "drive") {
-    const relative = path.substring("uploads/drive".length); // e.g., "/SoloDiary/PaymentBilles" or ""
-    return relative || "/";
-  } else {
-    const relative = path.substring("uploads/trash".length);
-    return `/trash${relative || "/"}`;
-  }
-}
-
-function currentPathAndFileToUrl(path: string, currentView: "drive" | "trash", fileItem: DriveItem | null) {
-  let url = currentPathToUrl(path, currentView);
-  if (fileItem) {
-    if (!url.endsWith("/")) url += "/";
-    url += fileItem.name;
-  }
-  return url;
-}
-
 export default function App() {
-  const initialUrlState = typeof window !== "undefined" ? parseUrlToState(window.location.pathname) : { view: "drive" as const, folderPath: "uploads/drive", fileName: null };
-
-  const [view, setView] = useState<"drive" | "trash">(initialUrlState.view);
-  const [currentPath, setCurrentPath] = useState(initialUrlState.folderPath);
-  const [pendingFileName, setPendingFileName] = useState<string | null>(initialUrlState.fileName);
+  const [view, setView] = useState<"drive" | "trash">("drive");
+  const [currentPath, setCurrentPath] = useState("uploads/drive");
   const [files, setFiles] = useState<DriveItem[]>([]);
   const [searchQuery, setSearchQuery] = useState("");
   const [isLoading, setIsLoading] = useState(false);
@@ -193,38 +112,14 @@ export default function App() {
     }
   }, [currentPath, view, savedCredentials, isConfigured]);
 
-  // Sync state with URL routing on popstate (back/forward browser events)
+  // Adjust path when category view changes
   useEffect(() => {
-    const handlePopState = () => {
-      const { view: parsedView, folderPath: parsedFolderPath, fileName: parsedFileName } = parseUrlToState(window.location.pathname);
-      setView(parsedView);
-      setCurrentPath(parsedFolderPath);
-      setPendingFileName(parsedFileName);
-      if (!parsedFileName) {
-        setActivePreviewItem(null);
-      }
-    };
-
-    window.addEventListener("popstate", handlePopState);
-    return () => window.removeEventListener("popstate", handlePopState);
-  }, []);
-
-  // Update browser URL to match current path & active file
-  useEffect(() => {
-    const targetUrl = currentPathAndFileToUrl(currentPath, view, activePreviewItem);
-    if (window.location.pathname !== targetUrl) {
-      window.history.pushState(null, "", targetUrl);
-    }
-  }, [currentPath, view, activePreviewItem]);
-
-  // Adjust path when category view changes (safely without overwriting deep folder paths on mount)
-  useEffect(() => {
-    const prefix = view === "drive" ? "uploads/drive" : "uploads/trash";
-    if (!currentPath.startsWith(prefix)) {
-      setCurrentPath(prefix);
+    if (view === "drive") {
+      setCurrentPath("uploads/drive");
+    } else {
+      setCurrentPath("uploads/trash");
     }
   }, [view]);
-
 
   // Read request headers to include client token override
   const getHeaders = () => {
