@@ -84,13 +84,16 @@ export default function FilePreviewModal({ isOpen, onClose, item, headers }: Pro
     return `${window.location.origin}/api/raw?path=${encodeURIComponent(item.path)}${tokenParams}`;
   };
 
-  const handleCopyLink = () => {
-    navigator.clipboard.writeText(getCleanShareUrl());
-    setCopied(true);
-    setTimeout(() => {
-      setCopied(false);
-    }, 2000);
-  };
+const handleCopyLink = () => {
+  // Generates the URL, then replaces all %2F with /
+  const cleanUrl = getCleanShareUrl().replace(/%2F/g, "/");
+  
+  navigator.clipboard.writeText(cleanUrl);
+  setCopied(true);
+  setTimeout(() => {
+    setCopied(false);
+  }, 2000);
+};
 
   const handleDownload = () => {
     const overrideQuery = Object.entries(headers)
