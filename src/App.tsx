@@ -275,6 +275,11 @@ export default function App() {
   // Sorting logic
   const sortFiles = (files: DriveItem[]) => {
     return [...files].sort((a, b) => {
+      // Folders always on top
+      if (a.type !== b.type) {
+        return a.type === "dir" ? -1 : 1;
+      }
+
       if (sortBy === "name") {
         const nameA = a.name.toLowerCase();
         const nameB = b.name.toLowerCase();
