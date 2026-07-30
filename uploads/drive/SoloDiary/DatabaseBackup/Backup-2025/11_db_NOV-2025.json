@@ -1,0 +1,4736 @@
+{
+  "user": "Raj Prajapati",
+  "entries": [
+    {
+      "id": "006lh5yfb",
+      "code": "L",
+      "name": "Lunch",
+      "points": 4,
+      "createdAt": 1764078320426,
+      "fromDate": "2025-11-25",
+      "fromTime": "13:00"
+    },
+    {
+      "id": "00gal4ru2",
+      "code": "D",
+      "name": "Dinner",
+      "points": 5,
+      "description": "Tandoori Egg Roll",
+      "createdAt": 1763275054826,
+      "fromDate": "2025-11-16",
+      "fromTime": "21:12"
+    },
+    {
+      "id": "03tp53222",
+      "code": "D",
+      "name": "Dinner",
+      "points": 4,
+      "createdAt": 1762926532254,
+      "fromDate": "2025-11-12",
+      "fromTime": "21:25"
+    },
+    {
+      "id": "04o4w5job",
+      "isLongEvent": true,
+      "fromDate": "2025-11-08",
+      "fromTime": "23:10",
+      "toDate": "2025-11-09",
+      "toTime": "08:50",
+      "code": "S",
+      "name": "Sleep",
+      "points": 10,
+      "createdAt": 1762579122279
+    },
+    {
+      "id": "07u3ru3aj",
+      "isLongEvent": true,
+      "fromDate": "2025-11-08",
+      "fromTime": "14:35",
+      "toDate": "2025-11-08",
+      "toTime": "15:30",
+      "code": "ST",
+      "name": "Street Level",
+      "points": 3,
+      "createdAt": 1762578863458
+    },
+    {
+      "id": "088dcajp1",
+      "code": "F",
+      "name": "Fresh",
+      "points": 1,
+      "createdAt": 1762214258261,
+      "fromDate": "2025-11-04",
+      "fromTime": "19:53"
+    },
+    {
+      "id": "0demhkvqu",
+      "isLongEvent": true,
+      "fromDate": "2025-11-05",
+      "fromTime": "14:30",
+      "toDate": "2025-11-05",
+      "toTime": "16:00",
+      "code": "S",
+      "name": "Sleep",
+      "points": 2,
+      "createdAt": 1762301668421
+    },
+    {
+      "id": "0dit9yrb4",
+      "fromDate": "2025-11-01",
+      "fromTime": "09:03",
+      "code": "T",
+      "name": "Travel",
+      "points": 2,
+      "createdAt": 1761977046325
+    },
+    {
+      "id": "0hwe2q8cn",
+      "code": "L",
+      "name": "Lunch",
+      "points": 3,
+      "createdAt": 1762578808730,
+      "fromDate": "2025-11-08",
+      "fromTime": "14:00"
+    },
+    {
+      "id": "0jz3ed7p5",
+      "isLongEvent": true,
+      "fromDate": "2025-11-27",
+      "fromTime": "08:35",
+      "toDate": "2025-11-27",
+      "toTime": "17:52",
+      "code": "J",
+      "name": "Job",
+      "points": 15,
+      "createdAt": 1764251977661
+    },
+    {
+      "id": "0k28e5xsc",
+      "code": "T",
+      "name": "Travel",
+      "points": 2,
+      "createdAt": 1764252137652,
+      "fromDate": "2025-11-27",
+      "fromTime": "17:57"
+    },
+    {
+      "id": "0kll90vl9",
+      "isLongEvent": true,
+      "fromDate": "2025-11-08",
+      "fromTime": "09:40",
+      "toDate": "2025-11-08",
+      "toTime": "13:58",
+      "code": "ST",
+      "name": "Street Level",
+      "points": 10,
+      "description": "Wave of Hall Ticket too much Stress + Too much rush for Ticket Signature of B.Com + Science Stream.....",
+      "createdAt": 1762578771502
+    },
+    {
+      "id": "0pr7jm4wh",
+      "isLongEvent": true,
+      "fromDate": "2025-11-13",
+      "fromTime": "08:30",
+      "toDate": "2025-11-13",
+      "toTime": "16:10",
+      "code": "J",
+      "name": "Job",
+      "points": 15,
+      "createdAt": 1763013062248
+    },
+    {
+      "id": "0t7aa0lgu",
+      "isLongEvent": true,
+      "fromDate": "2025-11-27",
+      "fromTime": "21:50",
+      "toDate": "2025-11-27",
+      "toTime": "22:45",
+      "code": "GMEET",
+      "name": "Google Meeting",
+      "points": 2,
+      "createdAt": 1764252360279
+    },
+    {
+      "id": "0u70n5mp9",
+      "isLongEvent": true,
+      "fromDate": "2025-11-01",
+      "fromTime": "09:15",
+      "toDate": "2025-11-01",
+      "toTime": "14:00",
+      "code": "J",
+      "name": "Job",
+      "points": 5,
+      "description": "No Work Full Stress + Today I was Completely Silent, No Talk @ Office",
+      "createdAt": 1761977092138
+    },
+    {
+      "id": "0um4uymhb",
+      "code": "MH",
+      "name": "Mahadev Mandir",
+      "points": 5,
+      "createdAt": 1763991434246,
+      "fromDate": "2025-11-24",
+      "fromTime": "07:00"
+    },
+    {
+      "id": "0v2x00jt6",
+      "isLongEvent": true,
+      "fromDate": "2025-11-09",
+      "fromTime": "00:35",
+      "toDate": "2025-11-10",
+      "toTime": "06:35",
+      "code": "S",
+      "name": "Sleep",
+      "points": 8,
+      "createdAt": 1762665854648
+    },
+    {
+      "id": "0ycu8s7uj",
+      "code": "T",
+      "name": "Travel",
+      "points": 2,
+      "createdAt": 1762578616715,
+      "fromDate": "2025-11-08",
+      "fromTime": "08:00"
+    },
+    {
+      "id": "0zcwx2o5m",
+      "isLongEvent": true,
+      "fromDate": "2025-11-15",
+      "fromTime": "09:05",
+      "toDate": "2025-11-15",
+      "toTime": "12:35",
+      "code": "ST",
+      "name": "Street Level",
+      "points": 5,
+      "description": "Hall Ticket....",
+      "createdAt": 1763186637250
+    },
+    {
+      "id": "11luvc5c7",
+      "code": "F",
+      "name": "Fresh",
+      "points": 1,
+      "createdAt": 1763099968304,
+      "fromDate": "2025-11-14",
+      "fromTime": "14:10"
+    },
+    {
+      "id": "153xo52os",
+      "isLongEvent": true,
+      "fromDate": "2025-11-29",
+      "fromTime": "08:35",
+      "toDate": "2025-11-29",
+      "toTime": "16:50",
+      "code": "OFS-1125",
+      "name": "Office Survival",
+      "points": 300,
+      "createdAt": 1764425447395
+    },
+    {
+      "id": "182unq3d5",
+      "code": "W",
+      "name": "Walking",
+      "points": 3,
+      "createdAt": 1763361794571,
+      "fromDate": "2025-11-17",
+      "fromTime": "19:00"
+    },
+    {
+      "id": "19efro2de",
+      "isLongEvent": true,
+      "fromDate": "2025-11-12",
+      "fromTime": "23:20",
+      "toDate": "2025-11-13",
+      "toTime": "07:28",
+      "code": "S",
+      "name": "Sleep",
+      "points": 10,
+      "createdAt": 1762926588161
+    },
+    {
+      "id": "1fa4ncwzj",
+      "code": "PH",
+      "name": "Phone Call",
+      "points": 1,
+      "createdAt": 1764425707750,
+      "fromDate": "2025-11-29",
+      "fromTime": "19:50"
+    },
+    {
+      "id": "1g6g5z7jc",
+      "code": "T",
+      "name": "Travel",
+      "points": 2,
+      "createdAt": 1762388276858,
+      "fromDate": "2025-11-06",
+      "fromTime": "08:00"
+    },
+    {
+      "id": "1j1shc3zl",
+      "code": "F",
+      "name": "Fresh",
+      "points": 1,
+      "createdAt": 1763448619133,
+      "fromDate": "2025-11-18",
+      "fromTime": "09:05"
+    },
+    {
+      "id": "1kra1pa7b",
+      "code": "D",
+      "name": "Dinner",
+      "points": 3,
+      "createdAt": 1764078543209,
+      "fromDate": "2025-11-25",
+      "fromTime": "22:10"
+    },
+    {
+      "id": "1oxwf5p6h",
+      "isLongEvent": true,
+      "fromDate": "2025-11-20",
+      "fromTime": "17:00",
+      "toDate": "2025-11-20",
+      "toTime": "18:30",
+      "code": "PU-TE",
+      "name": "Parul Theory Exam",
+      "points": 20,
+      "createdAt": 1763621886344
+    },
+    {
+      "id": "1q6d0cir3",
+      "code": "D",
+      "name": "Dinner",
+      "points": 4,
+      "createdAt": 1764252323892,
+      "fromDate": "2025-11-27",
+      "fromTime": "21:35"
+    },
+    {
+      "id": "1u9xu4o83",
+      "isLongEvent": true,
+      "fromDate": "2025-11-24",
+      "fromTime": "16:50",
+      "toDate": "2025-11-24",
+      "toTime": "18:20",
+      "code": "PU-PE",
+      "name": "Parul Practical Exam",
+      "points": 20,
+      "createdAt": 1763991597070
+    },
+    {
+      "id": "247s8y928",
+      "code": "W",
+      "name": "Walking",
+      "points": 4,
+      "createdAt": 1762839584150,
+      "fromDate": "2025-11-11",
+      "fromTime": "19:30"
+    },
+    {
+      "id": "2b7kpy4gy",
+      "code": "M",
+      "name": "Meal",
+      "points": 3,
+      "createdAt": 1764252302277,
+      "fromDate": "2025-11-27",
+      "fromTime": "21:25"
+    },
+    {
+      "id": "2f18e1amp",
+      "code": "T",
+      "name": "Travel",
+      "points": 2,
+      "createdAt": 1764078269895,
+      "fromDate": "2025-11-25",
+      "fromTime": "08:10"
+    },
+    {
+      "id": "2k0ccu9qs",
+      "fromDate": "2025-11-28",
+      "fromTime": "16:30",
+      "code": "SP",
+      "name": "Shopping",
+      "points": 1,
+      "debit": 200,
+      "moneyCode": "INR",
+      "description": "Bought 2 - Spiral Book of A4 Size but Quality Issue (No Use).",
+      "createdAt": 1764339326472
+    },
+    {
+      "id": "2lngnmow0",
+      "code": "W",
+      "name": "Walking",
+      "points": 1,
+      "createdAt": 1763275036524,
+      "fromDate": "2025-11-16",
+      "fromTime": "20:00"
+    },
+    {
+      "id": "2o8eh8vn6",
+      "fromDate": "2025-11-01",
+      "fromTime": "11:15",
+      "code": "W",
+      "name": "Walking",
+      "points": 2,
+      "createdAt": 1761977170731
+    },
+    {
+      "id": "2p4mzijd8",
+      "code": "B",
+      "name": "Bath",
+      "points": 3,
+      "createdAt": 1762578973751,
+      "fromDate": "2025-11-08",
+      "fromTime": "18:05"
+    },
+    {
+      "id": "2tdohr7g4",
+      "isLongEvent": true,
+      "fromDate": "2025-11-21",
+      "fromTime": "23:10",
+      "toDate": "2025-11-22",
+      "toTime": "07:10",
+      "code": "S",
+      "name": "Sleep",
+      "points": 10,
+      "createdAt": 1763710043484
+    },
+    {
+      "id": "2tfnx6iao",
+      "isLongEvent": true,
+      "fromDate": "2025-11-14",
+      "fromTime": "14:25",
+      "toDate": "2025-11-14",
+      "toTime": "15:30",
+      "code": "ST",
+      "name": "Street Level",
+      "points": 5,
+      "createdAt": 1763099999930
+    },
+    {
+      "id": "2w59uersg",
+      "isLongEvent": true,
+      "fromDate": "2025-11-03",
+      "fromTime": "12:30",
+      "toDate": "2025-11-03",
+      "toTime": "13:40",
+      "code": "T",
+      "name": "Travel",
+      "points": 1,
+      "description": "Train Reached + Too Rush.\n(Reached) Vapi Station @ 1:40pm",
+      "createdAt": 1762153312467
+    },
+    {
+      "id": "321zh9fys",
+      "code": "F",
+      "name": "Fresh",
+      "points": 1,
+      "createdAt": 1763709975313,
+      "fromDate": "2025-11-21",
+      "fromTime": "20:30"
+    },
+    {
+      "id": "3331shq46",
+      "code": "M",
+      "name": "Meal",
+      "points": 2,
+      "description": "Tea from College Watchman + At Home too....",
+      "createdAt": 1762064186203,
+      "fromDate": "2025-11-02",
+      "fromTime": "17:50"
+    },
+    {
+      "id": "355r747ir",
+      "code": "F",
+      "name": "Fresh",
+      "points": 1,
+      "createdAt": 1762926379331,
+      "fromDate": "2025-11-12",
+      "fromTime": "14:50"
+    },
+    {
+      "id": "3c4eof0h9",
+      "code": "PH",
+      "name": "Phone Call",
+      "points": 2,
+      "createdAt": 1764339414351,
+      "fromDate": "2025-11-28",
+      "fromTime": "19:20"
+    },
+    {
+      "id": "3c7bap53w",
+      "code": "BF",
+      "name": "Breakfast",
+      "points": 1,
+      "createdAt": 1764078417457,
+      "fromDate": "2025-11-25",
+      "fromTime": "16:45"
+    },
+    {
+      "id": "3fbxv5sft",
+      "code": "T",
+      "name": "Travel",
+      "points": 2,
+      "createdAt": 1764339082324,
+      "fromDate": "2025-11-28",
+      "fromTime": "08:40"
+    },
+    {
+      "id": "3jom3immz",
+      "code": "D",
+      "name": "Dinner",
+      "points": 5,
+      "createdAt": 1762665738621,
+      "fromDate": "2025-11-09",
+      "fromTime": "21:10"
+    },
+    {
+      "id": "3kbr3drvb",
+      "isLongEvent": true,
+      "fromDate": "2025-11-16",
+      "fromTime": "23:30",
+      "toDate": "2025-11-17",
+      "toTime": "06:30",
+      "code": "S",
+      "name": "Sleep",
+      "points": 8,
+      "createdAt": 1763275094718
+    },
+    {
+      "id": "3mk1p95r7",
+      "code": "PH",
+      "name": "Phone Call",
+      "points": 1,
+      "createdAt": 1764252162316,
+      "fromDate": "2025-11-27",
+      "fromTime": "18:15"
+    },
+    {
+      "id": "3t0q6znl9",
+      "code": "MH",
+      "name": "Mahadev Mandir",
+      "points": 3,
+      "createdAt": 1762752367929,
+      "fromDate": "2025-11-10",
+      "fromTime": "07:00"
+    },
+    {
+      "id": "3u4imcy0p",
+      "code": "F",
+      "name": "Fresh",
+      "points": 1,
+      "createdAt": 1762579071751,
+      "fromDate": "2025-11-08",
+      "fromTime": "22:10"
+    },
+    {
+      "id": "3xmhcd8wr",
+      "isLongEvent": true,
+      "fromDate": "2025-11-30",
+      "fromTime": "14:10",
+      "toDate": "2025-11-30",
+      "toTime": "16:25",
+      "code": "S",
+      "name": "Sleep",
+      "points": 5,
+      "createdAt": 1764512436618
+    },
+    {
+      "id": "3z20z5egj",
+      "code": "D",
+      "name": "Dinner",
+      "points": 5,
+      "createdAt": 1763448824753,
+      "fromDate": "2025-11-18",
+      "fromTime": "21:05"
+    },
+    {
+      "id": "40yst04hu",
+      "isLongEvent": true,
+      "fromDate": "2025-11-17",
+      "fromTime": "17:00",
+      "toDate": "2025-11-17",
+      "toTime": "18:30",
+      "code": "PU-TE",
+      "name": "Parul Theory Exam",
+      "points": 20,
+      "createdAt": 1763361760536
+    },
+    {
+      "id": "41d97vxog",
+      "code": "W",
+      "name": "Walking",
+      "points": 1,
+      "createdAt": 1762752516028,
+      "fromDate": "2025-11-10",
+      "fromTime": "08:30"
+    },
+    {
+      "id": "45ndpj63l",
+      "code": "BF",
+      "name": "Breakfast",
+      "points": 2,
+      "createdAt": 1762839357623,
+      "fromDate": "2025-11-11",
+      "fromTime": "07:10"
+    },
+    {
+      "id": "47ci3ndkh",
+      "code": "D",
+      "name": "Dinner",
+      "points": 5,
+      "description": "Egg + Mozzarella & Panner chess Sandwich.",
+      "createdAt": 1762301725610,
+      "fromDate": "2025-11-05",
+      "fromTime": "21:15"
+    },
+    {
+      "id": "47v9a3g5u",
+      "code": "T",
+      "name": "Travel",
+      "points": 2,
+      "description": "Travel to College in Sunday ( : - ! ) for PEC (enrollment) document collection of 2025-26.",
+      "createdAt": 1762064172579,
+      "fromDate": "2025-11-02",
+      "fromTime": "16:37"
+    },
+    {
+      "id": "492k6sgvj",
+      "code": "F",
+      "name": "Fresh",
+      "points": 1,
+      "createdAt": 1761977192766,
+      "fromDate": "2025-11-01",
+      "fromTime": "11:50"
+    },
+    {
+      "id": "49g6xu2ug",
+      "code": "W",
+      "name": "Walking",
+      "points": 2,
+      "createdAt": 1762214037422,
+      "fromDate": "2025-11-04",
+      "fromTime": "11:00"
+    },
+    {
+      "id": "4grz3869y",
+      "code": "T",
+      "name": "Travel",
+      "points": 2,
+      "createdAt": 1764078390069,
+      "fromDate": "2025-11-25",
+      "fromTime": "16:05"
+    },
+    {
+      "id": "4mk5p7pv0",
+      "code": "T",
+      "name": "Travel",
+      "points": 3,
+      "createdAt": 1763621845815,
+      "fromDate": "2025-11-20",
+      "fromTime": "16:05"
+    },
+    {
+      "id": "4pd03ubik",
+      "code": "L",
+      "name": "Lunch",
+      "points": 5,
+      "description": "Mutton Masala with butter Chapati and Rice.",
+      "createdAt": 1762665616176,
+      "fromDate": "2025-11-09",
+      "fromTime": "14:10"
+    },
+    {
+      "id": "4pvg7p1f7",
+      "code": "PH",
+      "name": "Phone Call",
+      "points": 2,
+      "createdAt": 1763796342745,
+      "fromDate": "2025-11-22",
+      "fromTime": "19:30"
+    },
+    {
+      "id": "4ue134nq7",
+      "code": "BF",
+      "name": "Breakfast",
+      "points": 2,
+      "createdAt": 1762665588262,
+      "fromDate": "2025-11-09",
+      "fromTime": "09:40"
+    },
+    {
+      "id": "51rpckyk4",
+      "isLongEvent": true,
+      "fromDate": "2025-11-20",
+      "fromTime": "08:30",
+      "toDate": "2025-11-20",
+      "toTime": "16:00",
+      "code": "J",
+      "name": "Job",
+      "points": 15,
+      "createdAt": 1763621790069
+    },
+    {
+      "id": "53gjxectx",
+      "code": "D",
+      "name": "Dinner",
+      "points": 4,
+      "createdAt": 1762153405242,
+      "fromDate": "2025-11-03",
+      "fromTime": "21:35"
+    },
+    {
+      "id": "557mv8lcl",
+      "isLongEvent": true,
+      "fromDate": "2025-11-21",
+      "fromTime": "14:00",
+      "toDate": "2025-11-21",
+      "toTime": "15:35",
+      "code": "KBS-IMGS",
+      "name": "Image Scanning",
+      "points": 1,
+      "createdAt": 1763883260278
+    },
+    {
+      "id": "58exlgcos",
+      "code": "W",
+      "name": "Walking",
+      "points": 2,
+      "createdAt": 1762752771568,
+      "fromDate": "2025-11-10",
+      "fromTime": "18:35"
+    },
+    {
+      "id": "59n0m699w",
+      "isLongEvent": true,
+      "fromDate": "2025-11-24",
+      "fromTime": "13:40",
+      "toDate": "2025-11-24",
+      "toTime": "15:55",
+      "code": "KBS-IMGS",
+      "name": "Image Scanning",
+      "points": 2,
+      "createdAt": 1763991536217
+    },
+    {
+      "id": "5a36v6h8m",
+      "isLongEvent": true,
+      "fromDate": "2025-11-14",
+      "fromTime": "08:30",
+      "toDate": "2025-11-14",
+      "toTime": "16:00",
+      "code": "J",
+      "name": "Job",
+      "points": 15,
+      "createdAt": 1763099775085
+    },
+    {
+      "id": "5b33u9u6o",
+      "code": "T",
+      "name": "Travel",
+      "points": 2,
+      "createdAt": 1764425643952,
+      "fromDate": "2025-11-29",
+      "fromTime": "17:00"
+    },
+    {
+      "id": "5h3tzcx40",
+      "isLongEvent": true,
+      "fromDate": "2025-11-15",
+      "fromTime": "14:00",
+      "toDate": "2025-11-15",
+      "toTime": "15:30",
+      "code": "ST",
+      "name": "Street Level",
+      "points": 3,
+      "createdAt": 1763186708966
+    },
+    {
+      "id": "5lpq90y5o",
+      "code": "F",
+      "name": "Fresh",
+      "points": 1,
+      "createdAt": 1763099887350,
+      "fromDate": "2025-11-14",
+      "fromTime": "12:30"
+    },
+    {
+      "id": "5m57us5nr",
+      "code": "T",
+      "name": "Travel",
+      "points": 3,
+      "createdAt": 1763621744565,
+      "fromDate": "2025-11-20",
+      "fromTime": "08:00"
+    },
+    {
+      "id": "5rtydh5ua",
+      "code": "F",
+      "name": "Fresh",
+      "points": 1,
+      "createdAt": 1764512467114,
+      "fromDate": "2025-11-30",
+      "fromTime": "16:45"
+    },
+    {
+      "id": "5s8294bpx",
+      "code": "D",
+      "name": "Dinner",
+      "points": 3,
+      "createdAt": 1762839604413,
+      "fromDate": "2025-11-11",
+      "fromTime": "21:45"
+    },
+    {
+      "id": "5xkggayl1",
+      "isLongEvent": true,
+      "fromDate": "2025-11-05",
+      "fromTime": "01:35",
+      "toDate": "2025-11-05",
+      "toTime": "09:00",
+      "code": "S",
+      "name": "Sleep",
+      "points": 8,
+      "createdAt": 1762214331517
+    },
+    {
+      "id": "5xoid7rrc",
+      "code": "W",
+      "name": "Walking",
+      "points": 1,
+      "createdAt": 1763448764970,
+      "fromDate": "2025-11-18",
+      "fromTime": "18:30"
+    },
+    {
+      "id": "5y6aiyvvj",
+      "isLongEvent": true,
+      "fromDate": "2025-11-02",
+      "fromTime": "14:00",
+      "toDate": "2025-11-02",
+      "toTime": "15:00",
+      "code": "S",
+      "name": "Sleep",
+      "points": 2,
+      "createdAt": 1762064080098
+    },
+    {
+      "id": "69iqkm04g",
+      "code": "T",
+      "name": "Travel",
+      "points": 2,
+      "createdAt": 1763709746750,
+      "fromDate": "2025-11-21",
+      "fromTime": "08:00"
+    },
+    {
+      "id": "6d2gvi3u3",
+      "code": "B",
+      "name": "Bath",
+      "points": 3,
+      "createdAt": 1762752338247,
+      "fromDate": "2025-11-10",
+      "fromTime": "06:45"
+    },
+    {
+      "id": "6gbinwet5",
+      "code": "F",
+      "name": "Fresh",
+      "points": 2,
+      "createdAt": 1762301517748,
+      "fromDate": "2025-11-05",
+      "fromTime": "09:05"
+    },
+    {
+      "id": "6i7yodksg",
+      "code": "F",
+      "name": "Fresh",
+      "points": 1,
+      "createdAt": 1761977242386,
+      "fromDate": "2025-11-01",
+      "fromTime": "13:50"
+    },
+    {
+      "id": "6iaj1opg3",
+      "code": "BF",
+      "name": "Breakfast",
+      "points": 2,
+      "createdAt": 1764425663648,
+      "fromDate": "2025-11-29",
+      "fromTime": "17:30"
+    },
+    {
+      "id": "6ihn6ekh2",
+      "isLongEvent": true,
+      "fromDate": "2025-11-23",
+      "fromTime": "15:00",
+      "toDate": "2025-11-23",
+      "toTime": "16:40",
+      "code": "S",
+      "name": "Sleep",
+      "points": 3,
+      "createdAt": 1763882577664
+    },
+    {
+      "id": "6lt6w1tix",
+      "code": "W",
+      "name": "Walking",
+      "points": 3,
+      "createdAt": 1762301705218,
+      "fromDate": "2025-11-05",
+      "fromTime": "18:20"
+    },
+    {
+      "id": "6plt95jsz",
+      "code": "D",
+      "name": "Dinner",
+      "points": 3,
+      "createdAt": 1763013311598,
+      "fromDate": "2025-11-13",
+      "fromTime": "21:00"
+    },
+    {
+      "id": "6yepe187m",
+      "code": "M",
+      "name": "Meal",
+      "points": 3,
+      "description": "Had a Yippee Maggie 😁",
+      "createdAt": 1762926491002,
+      "fromDate": "2025-11-12",
+      "fromTime": "18:00"
+    },
+    {
+      "id": "6ynqr87p3",
+      "isLongEvent": true,
+      "fromDate": "2025-11-14",
+      "fromTime": "23:05",
+      "toDate": "2025-11-15",
+      "toTime": "07:10",
+      "code": "S",
+      "name": "Sleep",
+      "points": 10,
+      "createdAt": 1763100122357
+    },
+    {
+      "id": "7amt673c3",
+      "isLongEvent": true,
+      "fromDate": "2025-11-23",
+      "fromTime": "19:00",
+      "toDate": "2025-11-23",
+      "toTime": "21:45",
+      "code": "MA",
+      "name": "Marriage Attend",
+      "points": 5,
+      "createdAt": 1763883580817
+    },
+    {
+      "id": "7bterhcpp",
+      "code": "F",
+      "name": "Fresh",
+      "points": 1,
+      "createdAt": 1763535401622,
+      "fromDate": "2025-11-19",
+      "fromTime": "12:20"
+    },
+    {
+      "id": "7rf8cixyw",
+      "isLongEvent": true,
+      "fromDate": "2025-11-24",
+      "fromTime": "08:46",
+      "toDate": "2025-11-24",
+      "toTime": "16:00",
+      "code": "J",
+      "name": "Job",
+      "points": 15,
+      "createdAt": 1763991489045
+    },
+    {
+      "id": "7yxom4c01",
+      "fromDate": "2025-11-28",
+      "fromTime": "16:50",
+      "code": "Db",
+      "name": "Debit",
+      "points": 5,
+      "debit": 2500,
+      "moneyCode": "INR",
+      "description": "2500₹ Deposited in Union Bank and Remaining for Pocket Use.",
+      "createdAt": 1764339362170
+    },
+    {
+      "id": "807tdx60x",
+      "code": "T",
+      "name": "Travel",
+      "points": 1,
+      "createdAt": 1762752667870,
+      "fromDate": "2025-11-10",
+      "fromTime": "16:05"
+    },
+    {
+      "id": "81evtfnof",
+      "code": "D",
+      "name": "Dinner",
+      "points": 4,
+      "description": "Peaceful + No Brother.",
+      "createdAt": 1762752812785,
+      "fromDate": "2025-11-10",
+      "fromTime": "21:50"
+    },
+    {
+      "id": "828dch3i2",
+      "isLongEvent": true,
+      "fromDate": "2025-11-28",
+      "fromTime": "23:30",
+      "toDate": "2025-11-29",
+      "toTime": "07:10",
+      "code": "S",
+      "name": "Sleep",
+      "points": 10,
+      "createdAt": 1764339512240
+    },
+    {
+      "id": "82t2i5tjx",
+      "isLongEvent": true,
+      "fromDate": "2025-11-10",
+      "fromTime": "08:10",
+      "toDate": "2025-11-10",
+      "toTime": "16:00",
+      "code": "J",
+      "name": "Job",
+      "points": 15,
+      "createdAt": 1762752466208
+    },
+    {
+      "id": "86pxztjrs",
+      "code": "L",
+      "name": "Lunch",
+      "points": 3,
+      "createdAt": 1763709831332,
+      "fromDate": "2025-11-21",
+      "fromTime": "13:00"
+    },
+    {
+      "id": "87m96cvth",
+      "code": "W",
+      "name": "Walking",
+      "points": 3,
+      "createdAt": 1762301558206,
+      "fromDate": "2025-11-05",
+      "fromTime": "10:55"
+    },
+    {
+      "id": "8aviwdm0y",
+      "code": "BF",
+      "name": "Breakfast",
+      "points": 2,
+      "createdAt": 1764165260610,
+      "fromDate": "2025-11-26",
+      "fromTime": "16:45"
+    },
+    {
+      "id": "8m3jw62g2",
+      "isLongEvent": true,
+      "fromDate": "2025-11-06",
+      "fromTime": "08:30",
+      "toDate": "2025-11-06",
+      "toTime": "14:25",
+      "code": "J",
+      "name": "Job",
+      "points": 10,
+      "createdAt": 1762388323878
+    },
+    {
+      "id": "8pjrg749m",
+      "isLongEvent": true,
+      "fromDate": "2025-11-03",
+      "fromTime": "10:00",
+      "toDate": "2025-11-03",
+      "toTime": "12:00",
+      "code": "VNSGU",
+      "name": "VNSGU",
+      "points": 2,
+      "description": "(Reached) @ 10:00 + Watched every employee doing face attached because University starts at 11:30 but due to connection and come calls that helped my work done faster + Document Submitted Done   : - ) ",
+      "createdAt": 1762153238778
+    },
+    {
+      "id": "8se3vzh3i",
+      "code": "F",
+      "name": "Fresh",
+      "points": 1,
+      "createdAt": 1763535600426,
+      "fromDate": "2025-11-19",
+      "fromTime": "20:40"
+    },
+    {
+      "id": "8sj3yn4xc",
+      "code": "L",
+      "name": "Lunch",
+      "points": 5,
+      "createdAt": 1763448647220,
+      "fromDate": "2025-11-18",
+      "fromTime": "13:25"
+    },
+    {
+      "id": "8ttu6k4il",
+      "code": "F",
+      "name": "Fresh",
+      "points": 1,
+      "createdAt": 1762752784147,
+      "fromDate": "2025-11-10",
+      "fromTime": "19:30"
+    },
+    {
+      "id": "8w0i4k3yy",
+      "code": "PH",
+      "name": "Phone Call",
+      "points": 1,
+      "description": "Deep Call for Job Required in Pune.",
+      "createdAt": 1762301575478,
+      "fromDate": "2025-11-05",
+      "fromTime": "11:15"
+    },
+    {
+      "id": "8wq44ihtv",
+      "code": "PH",
+      "name": "Phone Call",
+      "points": 2,
+      "createdAt": 1764339174564,
+      "fromDate": "2025-11-28",
+      "fromTime": "10:50"
+    },
+    {
+      "id": "8xc0mf8xr",
+      "code": "L",
+      "name": "Lunch",
+      "points": 3,
+      "createdAt": 1762839462835,
+      "fromDate": "2025-11-11",
+      "fromTime": "13:05"
+    },
+    {
+      "id": "96qqfmwpi",
+      "code": "F",
+      "name": "Fresh",
+      "points": 1,
+      "createdAt": 1764251895562,
+      "fromDate": "2025-11-27",
+      "fromTime": "07:10"
+    },
+    {
+      "id": "971c1umc4",
+      "code": "T",
+      "name": "Travel",
+      "points": 2,
+      "createdAt": 1762839504351,
+      "fromDate": "2025-11-11",
+      "fromTime": "16:05"
+    },
+    {
+      "id": "9dnz81e3t",
+      "code": "B",
+      "name": "Bath",
+      "points": 5,
+      "createdAt": 1762926468650,
+      "fromDate": "2025-11-12",
+      "fromTime": "17:50"
+    },
+    {
+      "id": "9iog3ya2q",
+      "code": "L",
+      "name": "Lunch",
+      "points": 5,
+      "createdAt": 1763535421135,
+      "fromDate": "2025-11-19",
+      "fromTime": "13:10"
+    },
+    {
+      "id": "9kg0h6m6q",
+      "isLongEvent": true,
+      "fromDate": "2025-11-26",
+      "fromTime": "23:35",
+      "toDate": "2025-11-27",
+      "toTime": "07:00",
+      "code": "S",
+      "name": "Sleep",
+      "points": 10,
+      "createdAt": 1764165408863
+    },
+    {
+      "id": "9n750zg2c",
+      "isLongEvent": true,
+      "fromDate": "2025-11-05",
+      "fromTime": "23:00",
+      "toDate": "2025-11-06",
+      "toTime": "07:00",
+      "code": "S",
+      "name": "Sleep",
+      "points": 9,
+      "createdAt": 1762301801934
+    },
+    {
+      "id": "9zq4hnrja",
+      "code": "L",
+      "name": "Lunch",
+      "points": 4,
+      "createdAt": 1763013188889,
+      "fromDate": "2025-11-13",
+      "fromTime": "01:00"
+    },
+    {
+      "id": "a1qqfpxj5",
+      "code": "F",
+      "name": "Fresh",
+      "points": 2,
+      "createdAt": 1764339153313,
+      "fromDate": "2025-11-28",
+      "fromTime": "10:05"
+    },
+    {
+      "id": "a4mrh70tw",
+      "code": "MH",
+      "name": "Mahadev Mandir",
+      "points": 2,
+      "description": "Quickly went to Mahadev Mandir with Father.",
+      "createdAt": 1762151426545,
+      "fromDate": "2025-11-03",
+      "fromTime": "06:15"
+    },
+    {
+      "id": "a5aprjmvp",
+      "code": "L",
+      "name": "Lunch",
+      "points": 4,
+      "createdAt": 1763186653905,
+      "fromDate": "2025-11-15",
+      "fromTime": "13:00"
+    },
+    {
+      "id": "a8mw4zyqe",
+      "isLongEvent": true,
+      "fromDate": "2025-11-08",
+      "fromTime": "19:00",
+      "toDate": "2025-11-08",
+      "toTime": "21:00",
+      "code": "DIARY",
+      "name": "Diary",
+      "points": 4,
+      "description": "Attaching Images...",
+      "createdAt": 1762579031081
+    },
+    {
+      "id": "aal2cq0y4",
+      "code": "PH",
+      "name": "Phone Call",
+      "points": 3,
+      "createdAt": 1764078473030,
+      "fromDate": "2025-11-25",
+      "fromTime": "18:45"
+    },
+    {
+      "id": "aarukas3d",
+      "code": "L",
+      "name": "Lunch",
+      "points": 4,
+      "createdAt": 1764251994284,
+      "fromDate": "2025-11-27",
+      "fromTime": "13:00"
+    },
+    {
+      "id": "ab64hpsqg",
+      "isLongEvent": true,
+      "fromDate": "2025-11-01",
+      "fromTime": "09:31",
+      "toDate": "2025-11-01",
+      "toTime": "10:34",
+      "code": "ST",
+      "name": "Street Level",
+      "points": 2,
+      "createdAt": 1761977139987
+    },
+    {
+      "id": "ah63p8njy",
+      "code": "W",
+      "name": "Walking",
+      "points": 4,
+      "createdAt": 1774447310103,
+      "fromDate": "2025-11-07",
+      "fromTime": "18:05"
+    },
+    {
+      "id": "an21lo3pv",
+      "isLongEvent": true,
+      "fromDate": "2025-11-22",
+      "fromTime": "17:00",
+      "toDate": "2025-11-22",
+      "toTime": "18:30",
+      "code": "PU-PE",
+      "name": "Parul Practical Exam",
+      "points": 20,
+      "createdAt": 1763796298985
+    },
+    {
+      "id": "aonry1x1l",
+      "isLongEvent": true,
+      "fromDate": "2025-11-18",
+      "fromTime": "22:40",
+      "toDate": "2025-11-19",
+      "toTime": "08:30",
+      "code": "S",
+      "name": "Sleep",
+      "points": 10,
+      "createdAt": 1763448858831
+    },
+    {
+      "id": "ap099ozhu",
+      "code": "B",
+      "name": "Bath",
+      "points": 1,
+      "createdAt": 1762151402329,
+      "fromDate": "2025-11-03",
+      "fromTime": "05:40"
+    },
+    {
+      "id": "at4zac37k",
+      "code": "F",
+      "name": "Fresh",
+      "points": 1,
+      "createdAt": 1763275024346,
+      "fromDate": "2025-11-16",
+      "fromTime": "17:10"
+    },
+    {
+      "id": "avdrmbcv7",
+      "code": "F",
+      "name": "Fresh",
+      "points": 2,
+      "createdAt": 1763275067581,
+      "fromDate": "2025-11-16",
+      "fromTime": "21:50"
+    },
+    {
+      "id": "axbehzko4",
+      "code": "B",
+      "name": "Bath",
+      "points": 4,
+      "createdAt": 1763186807344,
+      "fromDate": "2025-11-15",
+      "fromTime": "19:00"
+    },
+    {
+      "id": "ay54ljsyt",
+      "isLongEvent": true,
+      "fromDate": "2025-11-01",
+      "fromTime": "23:30",
+      "toDate": "2025-11-02",
+      "toTime": "08:00",
+      "code": "S",
+      "name": "Sleep",
+      "points": 10,
+      "description": "Good Sleep due to Heavy Work Load.",
+      "createdAt": 1761977470578
+    },
+    {
+      "id": "b148vhsty",
+      "isLongEvent": true,
+      "fromDate": "2025-11-24",
+      "fromTime": "23:15",
+      "toDate": "2025-11-25",
+      "toTime": "07:10",
+      "code": "S",
+      "name": "Sleep",
+      "points": 10,
+      "createdAt": 1763991763388
+    },
+    {
+      "id": "b889oou7u",
+      "code": "L",
+      "name": "Lunch",
+      "points": 5,
+      "createdAt": 1763991503195,
+      "fromDate": "2025-11-24",
+      "fromTime": "13:00"
+    },
+    {
+      "id": "b9n3awxpl",
+      "code": "M-RAJ",
+      "name": "Maharaj",
+      "points": 3,
+      "description": "Too Long + Explained Everything in Details with Life Long Plans + Clear all my Doughts 501₹.\n(Tough) = Discipline + Be in Rules + Wait for 24/07/2027 Till that period of time do all Mistakes + Learn from it + Don't Give Up + You will Fail but Fail with Respect....",
+      "createdAt": 1762214196444,
+      "fromDate": "2025-11-04",
+      "fromTime": "17:55"
+    },
+    {
+      "id": "ba8bxa9cx",
+      "code": "W",
+      "name": "Walking",
+      "points": 5,
+      "createdAt": 1763275011078,
+      "fromDate": "2025-11-16",
+      "fromTime": "16:00"
+    },
+    {
+      "id": "bcgpj7lan",
+      "code": "F",
+      "name": "Fresh",
+      "points": 1,
+      "createdAt": 1764078404192,
+      "fromDate": "2025-11-25",
+      "fromTime": "16:35"
+    },
+    {
+      "id": "bncwbwd2u",
+      "code": "W",
+      "name": "Walking",
+      "points": 1,
+      "createdAt": 1762578945082,
+      "fromDate": "2025-11-08",
+      "fromTime": "17:35"
+    },
+    {
+      "id": "bqa8mxcnl",
+      "code": "F",
+      "name": "Fresh",
+      "points": 1,
+      "createdAt": 1764512586560,
+      "fromDate": "2025-11-30",
+      "fromTime": "22:00"
+    },
+    {
+      "id": "bt68f6pad",
+      "code": "W",
+      "name": "Walking",
+      "points": 2,
+      "description": "Walk Nearest path root to VNSGU, Surat",
+      "createdAt": 1762154436133,
+      "fromDate": "2025-11-03",
+      "fromTime": "09:50"
+    },
+    {
+      "id": "c0ln6nuk3",
+      "isLongEvent": true,
+      "fromDate": "2025-11-10",
+      "fromTime": "23:30",
+      "toDate": "2025-11-11",
+      "toTime": "07:00",
+      "code": "S",
+      "name": "Sleep",
+      "points": 8,
+      "createdAt": 1762752855531
+    },
+    {
+      "id": "c1i056khr",
+      "fromDate": "2025-11-11",
+      "fromTime": "17:00",
+      "code": "M",
+      "name": "Meal",
+      "points": 3,
+      "debit": 30,
+      "moneyCode": "INR",
+      "description": "Garlic Cheese Vadapav",
+      "createdAt": 1762839555718
+    },
+    {
+      "id": "c3j80h0md",
+      "isLongEvent": true,
+      "fromDate": "2025-11-15",
+      "fromTime": "23:30",
+      "toDate": "2025-11-16",
+      "toTime": "09:00",
+      "code": "S",
+      "name": "Sleep",
+      "points": 10,
+      "createdAt": 1763186862096
+    },
+    {
+      "id": "c7ax5vaj",
+      "isLongEvent": true,
+      "fromDate": "2025-11-25",
+      "fromTime": "23:47",
+      "toDate": "2025-11-26",
+      "toTime": "07:20",
+      "code": "S",
+      "name": "Sleep",
+      "points": 8,
+      "createdAt": 1764078599574
+    },
+    {
+      "id": "cbdg13fbc",
+      "code": "BF",
+      "name": "Breakfast",
+      "points": 1,
+      "createdAt": 1764252252349,
+      "fromDate": "2025-11-27",
+      "fromTime": "19:55"
+    },
+    {
+      "id": "cdyd5qy36",
+      "code": "F",
+      "name": "Fresh",
+      "points": 1,
+      "createdAt": 1763621717217,
+      "fromDate": "2025-11-20",
+      "fromTime": "07:05"
+    },
+    {
+      "id": "cjwegt9m0",
+      "isLongEvent": true,
+      "fromDate": "2025-11-07",
+      "fromTime": "18:30",
+      "toDate": "2025-11-07",
+      "toTime": "20:00",
+      "code": "ZM",
+      "name": "Zoom Meeting",
+      "points": 2,
+      "createdAt": 1774447376653
+    },
+    {
+      "id": "cnh74xr7a",
+      "code": "F",
+      "name": "Fresh",
+      "points": 1,
+      "createdAt": 1762578788839,
+      "fromDate": "2025-11-08",
+      "fromTime": "11:05"
+    },
+    {
+      "id": "cou34aqle",
+      "code": "F",
+      "name": "Fresh",
+      "points": 1,
+      "createdAt": 1762213904589,
+      "fromDate": "2025-11-04",
+      "fromTime": "08:10"
+    },
+    {
+      "id": "cqplofzmx",
+      "code": "BF",
+      "name": "Breakfast",
+      "points": 1,
+      "createdAt": 1763796268823,
+      "fromDate": "2025-11-22",
+      "fromTime": "16:50"
+    },
+    {
+      "id": "cs01c8fjx",
+      "code": "F",
+      "name": "Fresh",
+      "points": 1,
+      "createdAt": 1764252239089,
+      "fromDate": "2025-11-27",
+      "fromTime": "19:50"
+    },
+    {
+      "id": "cxpi9j6q7",
+      "code": "F",
+      "name": "Fresh",
+      "points": 1,
+      "createdAt": 1762214061564,
+      "fromDate": "2025-11-04",
+      "fromTime": "11:55"
+    },
+    {
+      "id": "cyt4xtrw8",
+      "code": "F",
+      "name": "Fresh",
+      "points": 1,
+      "createdAt": 1763186674340,
+      "fromDate": "2025-11-15",
+      "fromTime": "13:25"
+    },
+    {
+      "id": "d01yok9ca",
+      "code": "F",
+      "name": "Fresh",
+      "points": 1,
+      "createdAt": 1763796093267,
+      "fromDate": "2025-11-22",
+      "fromTime": "07:13"
+    },
+    {
+      "id": "d7n2lde2a",
+      "code": "S",
+      "name": "Sleep",
+      "points": 3,
+      "description": "Took a Quick Nap inside Train.",
+      "createdAt": 1762153330599,
+      "fromDate": "2025-11-03",
+      "fromTime": "12:50"
+    },
+    {
+      "id": "d7xfqcfp9",
+      "isLongEvent": true,
+      "fromDate": "2025-11-11",
+      "fromTime": "23:25",
+      "toDate": "2025-11-12",
+      "toTime": "07:00",
+      "code": "S",
+      "name": "Sleep",
+      "points": 9,
+      "createdAt": 1762839669938
+    },
+    {
+      "id": "d8fbs0yzb",
+      "code": "F",
+      "name": "Fresh",
+      "points": 1,
+      "createdAt": 1763882525718,
+      "fromDate": "2025-11-23",
+      "fromTime": "11:15"
+    },
+    {
+      "id": "d94d3adt4",
+      "code": "T",
+      "name": "Travel",
+      "points": 2,
+      "createdAt": 1763013029585,
+      "fromDate": "2025-11-13",
+      "fromTime": "08:10"
+    },
+    {
+      "id": "dbfq3fefh",
+      "code": "D",
+      "name": "Dinner",
+      "points": 5,
+      "description": "Peaceful Manner + No Brother",
+      "createdAt": 1761977433470,
+      "fromDate": "2025-11-01",
+      "fromTime": "21:00"
+    },
+    {
+      "id": "deryluueu",
+      "isLongEvent": true,
+      "fromDate": "2025-11-21",
+      "fromTime": "08:30",
+      "toDate": "2025-11-21",
+      "toTime": "16:10",
+      "code": "J",
+      "name": "Job",
+      "points": 15,
+      "createdAt": 1763709780516
+    },
+    {
+      "id": "dn5si35iv",
+      "code": "BF",
+      "name": "Breakfast",
+      "points": 1,
+      "createdAt": 1774447237770,
+      "fromDate": "2025-11-07",
+      "fromTime": "16:20"
+    },
+    {
+      "id": "dp3z5d5m1",
+      "code": "F",
+      "name": "Fresh",
+      "points": 2,
+      "createdAt": 1763882599653,
+      "fromDate": "2025-11-23",
+      "fromTime": "18:10"
+    },
+    {
+      "id": "dxcpz3mlt",
+      "code": "F",
+      "name": "Fresh",
+      "points": 2,
+      "createdAt": 1764165312785,
+      "fromDate": "2025-11-26",
+      "fromTime": "18:40"
+    },
+    {
+      "id": "e0sbkw50q",
+      "code": "F",
+      "name": "Fresh",
+      "points": 1,
+      "createdAt": 1763361694929,
+      "fromDate": "2025-11-17",
+      "fromTime": "14:05"
+    },
+    {
+      "id": "e2igk9k6v",
+      "isLongEvent": true,
+      "fromDate": "2025-11-11",
+      "fromTime": "08:26",
+      "toDate": "2025-11-11",
+      "toTime": "11:06",
+      "code": "J",
+      "name": "Job",
+      "points": 10,
+      "createdAt": 1762839392020
+    },
+    {
+      "id": "e70mh9yw8",
+      "isLongEvent": true,
+      "fromDate": "2025-11-16",
+      "fromTime": "11:20",
+      "toDate": "2025-11-16",
+      "toTime": "12:50",
+      "code": "PU-MT",
+      "name": "Parul University Meeting",
+      "points": 3,
+      "createdAt": 1763274893539
+    },
+    {
+      "id": "e86sm49w2",
+      "code": "ST",
+      "name": "Street Level",
+      "points": 2,
+      "description": "Guiding Students (How to Login to VNSGU.net Portal with there official id got on mail...)",
+      "createdAt": 1762214018067,
+      "fromDate": "2025-11-04",
+      "fromTime": "09:30"
+    },
+    {
+      "id": "eeeh4r8wx",
+      "code": "D",
+      "name": "Dinner",
+      "points": 4,
+      "createdAt": 1774447409312,
+      "fromDate": "2025-11-07",
+      "fromTime": "22:20"
+    },
+    {
+      "id": "eekss7dee",
+      "isLongEvent": true,
+      "fromDate": "2025-11-17",
+      "fromTime": "08:30",
+      "toDate": "2025-11-17",
+      "toTime": "16:00",
+      "code": "J",
+      "name": "Job",
+      "points": 15,
+      "createdAt": 1763361624341
+    },
+    {
+      "id": "eeo7smq0l",
+      "code": "D",
+      "name": "Dinner",
+      "points": 4,
+      "createdAt": 1764512574287,
+      "fromDate": "2025-11-30",
+      "fromTime": "21:00"
+    },
+    {
+      "id": "en4l8yzh6",
+      "code": "F",
+      "name": "Fresh",
+      "points": 1,
+      "createdAt": 1764339035417,
+      "fromDate": "2025-11-28",
+      "fromTime": "07:15"
+    },
+    {
+      "id": "ete4j1toz",
+      "code": "BF",
+      "name": "Breakfast",
+      "points": 5,
+      "createdAt": 1763535367984,
+      "fromDate": "2025-11-19",
+      "fromTime": "09:00"
+    },
+    {
+      "id": "exdednj9n",
+      "code": "L",
+      "name": "Lunch",
+      "points": 3,
+      "createdAt": 1762388420481,
+      "fromDate": "2025-11-06",
+      "fromTime": "13:05"
+    },
+    {
+      "id": "f0r9n1u51",
+      "code": "BF",
+      "name": "Breakfast",
+      "points": 2,
+      "createdAt": 1764425388276,
+      "fromDate": "2025-11-29",
+      "fromTime": "07:20"
+    },
+    {
+      "id": "f2dlxgvnu",
+      "code": "L",
+      "name": "Lunch",
+      "points": 5,
+      "createdAt": 1764165165030,
+      "fromDate": "2025-11-26",
+      "fromTime": "13:00"
+    },
+    {
+      "id": "f8wpwpvri",
+      "code": "F",
+      "name": "Fresh",
+      "points": 1,
+      "createdAt": 1763796245337,
+      "fromDate": "2025-11-22",
+      "fromTime": "16:15"
+    },
+    {
+      "id": "fbvojy7mr",
+      "code": "W",
+      "name": "Walking",
+      "points": 1,
+      "createdAt": 1763013293961,
+      "fromDate": "2025-11-13",
+      "fromTime": "19:30"
+    },
+    {
+      "id": "ffa83jjxm",
+      "isLongEvent": true,
+      "fromDate": "2025-11-08",
+      "fromTime": "08:25",
+      "toDate": "2025-11-08",
+      "toTime": "16:15",
+      "code": "J",
+      "name": "Job",
+      "points": 15,
+      "description": "Nalin Sir told \"I have to Go\" for his Supervision Duty, so I have to Handle Science stream too....",
+      "createdAt": 1762578672135
+    },
+    {
+      "id": "ffdbkjblx",
+      "code": "AC-1125",
+      "name": "Accident",
+      "points": 5,
+      "description": "Schooty got Slipped on Divider and got Complite weight on Right Leg + Bullet Front wheel got in Face and the Right side Arm was relocated on the Road Side and went back to Home by Myself....",
+      "createdAt": 1763448911490,
+      "fromDate": "2025-11-18",
+      "fromTime": "08:15"
+    },
+    {
+      "id": "fhqcyykud",
+      "code": "L",
+      "name": "Lunch",
+      "points": 2,
+      "description": "Home Food + Alone and Peaceful.",
+      "createdAt": 1762153348225,
+      "fromDate": "2025-11-03",
+      "fromTime": "14:00"
+    },
+    {
+      "id": "fiarpgmv2",
+      "isLongEvent": true,
+      "fromDate": "2025-11-30",
+      "fromTime": "17:00",
+      "toDate": "2025-11-30",
+      "toTime": "22:30",
+      "code": "RJS-L",
+      "name": "Reactjs Learning",
+      "points": 20,
+      "createdAt": 1764512494338
+    },
+    {
+      "id": "fnr9gzqi0",
+      "code": "D",
+      "name": "Dinner",
+      "points": 4,
+      "createdAt": 1763361826929,
+      "fromDate": "2025-11-17",
+      "fromTime": "21:10"
+    },
+    {
+      "id": "fqf9d81bz",
+      "isLongEvent": true,
+      "fromDate": "2025-11-14",
+      "fromTime": "09:30",
+      "toDate": "2025-11-14",
+      "toTime": "12:05",
+      "code": "ST",
+      "name": "Street Level",
+      "points": 5,
+      "description": "Again Hall Ticket of Master Students in both Commerce and Science stream....",
+      "createdAt": 1763099832015
+    },
+    {
+      "id": "fvljo1vhc",
+      "isLongEvent": true,
+      "fromDate": "2025-11-18",
+      "fromTime": "17:00",
+      "toDate": "2025-11-18",
+      "toTime": "18:15",
+      "code": "PU-TE",
+      "name": "Parul Theory Exam",
+      "points": 20,
+      "createdAt": 1763448746454
+    },
+    {
+      "id": "fzyqoljs4",
+      "code": "B",
+      "name": "Bath",
+      "points": 2,
+      "createdAt": 1763991417861,
+      "fromDate": "2025-11-24",
+      "fromTime": "06:40"
+    },
+    {
+      "id": "g10czdzsx",
+      "isLongEvent": true,
+      "fromDate": "2025-11-28",
+      "fromTime": "04:50",
+      "toDate": "2025-11-28",
+      "toTime": "06:50",
+      "code": "STP",
+      "name": "Stomach Pain",
+      "points": 2,
+      "createdAt": 1764338949683
+    },
+    {
+      "id": "g2m2utib8",
+      "isLongEvent": true,
+      "fromDate": "2025-11-08",
+      "fromTime": "00:00",
+      "toDate": "2025-11-08",
+      "toTime": "06:50",
+      "code": "S",
+      "name": "Sleep",
+      "points": 9,
+      "createdAt": 1774447480067
+    },
+    {
+      "id": "g4vz3i832",
+      "code": "BF",
+      "name": "Breakfast",
+      "points": 1,
+      "createdAt": 1763099739632,
+      "fromDate": "2025-11-14",
+      "fromTime": "07:10"
+    },
+    {
+      "id": "g6po3fork",
+      "code": "F",
+      "name": "Fresh",
+      "points": 1,
+      "createdAt": 1763448813063,
+      "fromDate": "2025-11-18",
+      "fromTime": "20:30"
+    },
+    {
+      "id": "g72yy9kkt",
+      "code": "T",
+      "name": "Travel",
+      "points": 2,
+      "createdAt": 1763796141711,
+      "fromDate": "2025-11-22",
+      "fromTime": "08:05"
+    },
+    {
+      "id": "g8201jgl7",
+      "code": "DYF-1125",
+      "name": "Diary Formation",
+      "points": 150,
+      "description": "Handmade Diary is finally ready after lots of mistakes and breaks in entries. This design includes a way of writing his activity list, goals list, how to achieve them, and an implementation style that has been added. The most challenging part is how to implement all these events with details and descriptions inside one book while still maintaining his point system and totaling. After all this, I gave myself 5 days to completely craft this book with all data filled in systematically with this specific timing.",
+      "createdAt": 1762301599168,
+      "fromDate": "2025-11-05",
+      "fromTime": "12:10"
+    },
+    {
+      "id": "g8tb6538d",
+      "isLongEvent": true,
+      "fromDate": "2025-11-12",
+      "fromTime": "08:23",
+      "toDate": "2025-11-12",
+      "toTime": "16:00",
+      "code": "J",
+      "name": "Job",
+      "points": 15,
+      "createdAt": 1762926309577
+    },
+    {
+      "id": "gdhpqwwxn",
+      "fromDate": "2025-11-01",
+      "fromTime": "08:08",
+      "code": "F",
+      "name": "Fresh",
+      "points": 1,
+      "createdAt": 1761977014541
+    },
+    {
+      "id": "gdpnavpzv",
+      "isLongEvent": true,
+      "fromDate": "2025-11-25",
+      "fromTime": "14:15",
+      "toDate": "2025-11-25",
+      "toTime": "16:00",
+      "code": "KBS-IMGS",
+      "name": "Image Scanning",
+      "points": 3,
+      "createdAt": 1764078376334
+    },
+    {
+      "id": "ge71s8uq6",
+      "code": "BF",
+      "name": "Breakfast",
+      "points": 2,
+      "createdAt": 1763709723006,
+      "fromDate": "2025-11-21",
+      "fromTime": "07:25"
+    },
+    {
+      "id": "gf04g0t05",
+      "isLongEvent": true,
+      "fromDate": "2025-11-13",
+      "fromTime": "09:05",
+      "toDate": "2025-11-13",
+      "toTime": "12:35",
+      "code": "ST",
+      "name": "Street Level",
+      "points": 5,
+      "description": "Hall Ticket of Master Students.....",
+      "createdAt": 1763013115582
+    },
+    {
+      "id": "gh5ipl3gg",
+      "code": "T",
+      "name": "Travel",
+      "points": 2,
+      "createdAt": 1762752408459,
+      "fromDate": "2025-11-10",
+      "fromTime": "07:40"
+    },
+    {
+      "id": "gmld6w8vb",
+      "code": "T",
+      "name": "Travel",
+      "points": 2,
+      "createdAt": 1763186743806,
+      "fromDate": "2025-11-15",
+      "fromTime": "16:15"
+    },
+    {
+      "id": "gmptism8o",
+      "code": "L",
+      "name": "Lunch",
+      "points": 5,
+      "createdAt": 1763882540077,
+      "fromDate": "2025-11-23",
+      "fromTime": "14:00"
+    },
+    {
+      "id": "h3x308g3o",
+      "isLongEvent": true,
+      "fromDate": "2025-11-28",
+      "fromTime": "00:00",
+      "toDate": "2025-11-28",
+      "toTime": "07:10",
+      "code": "S",
+      "name": "Sleep",
+      "points": 8,
+      "createdAt": 1764252477019
+    },
+    {
+      "id": "h4r066f2w",
+      "code": "BF",
+      "name": "Breakfast",
+      "points": 1,
+      "createdAt": 1762578590075,
+      "fromDate": "2025-11-08",
+      "fromTime": "07:10"
+    },
+    {
+      "id": "h5efwkzxr",
+      "code": "B",
+      "name": "Bath",
+      "points": 3,
+      "description": "Medium hot Water Bath 20 Minutes..",
+      "createdAt": 1761977409530,
+      "fromDate": "2025-11-01",
+      "fromTime": "18:15"
+    },
+    {
+      "id": "hh5gzyiue",
+      "code": "F",
+      "name": "Fresh",
+      "points": 1,
+      "createdAt": 1763991707964,
+      "fromDate": "2025-11-24",
+      "fromTime": "20:50"
+    },
+    {
+      "id": "hhdbgmpag",
+      "isLongEvent": true,
+      "fromDate": "2025-11-30",
+      "fromTime": "18:00",
+      "toDate": "2025-11-30",
+      "toTime": "19:00",
+      "code": "W",
+      "name": "Walking",
+      "points": 5,
+      "createdAt": 1764512533411
+    },
+    {
+      "id": "hj921xkme",
+      "code": "W",
+      "name": "Walking",
+      "points": 3,
+      "createdAt": 1763535570541,
+      "fromDate": "2025-11-19",
+      "fromTime": "18:30"
+    },
+    {
+      "id": "hlx5r4s63",
+      "isLongEvent": true,
+      "fromDate": "2025-11-13",
+      "fromTime": "22:30",
+      "toDate": "2025-11-14",
+      "toTime": "07:00",
+      "code": "S",
+      "name": "Sleep",
+      "points": 10,
+      "createdAt": 1763013340910
+    },
+    {
+      "id": "hodgdu4d1",
+      "code": "BF",
+      "name": "Breakfast",
+      "points": 1,
+      "createdAt": 1763186554220,
+      "fromDate": "2025-11-15",
+      "fromTime": "07:15"
+    },
+    {
+      "id": "hxvvze54a",
+      "code": "F",
+      "name": "Fresh",
+      "points": 1,
+      "createdAt": 1764165071366,
+      "fromDate": "2025-11-26",
+      "fromTime": "07:30"
+    },
+    {
+      "id": "hzlrtjpsx",
+      "isLongEvent": true,
+      "fromDate": "2025-11-03",
+      "fromTime": "03:30",
+      "toDate": "2025-11-03",
+      "toTime": "05:25",
+      "code": "S",
+      "name": "Sleep",
+      "points": 2,
+      "description": "Not getting Sleep due to pressure to go VNSGU.",
+      "createdAt": 1762151380598
+    },
+    {
+      "id": "i4tk8aojj",
+      "isLongEvent": true,
+      "fromDate": "2025-11-28",
+      "fromTime": "15:30",
+      "toDate": "2025-11-28",
+      "toTime": "16:10",
+      "code": "PU-VI",
+      "name": "Parul University VIVA",
+      "points": 30,
+      "description": "2:45pm - Metting Started but not yet Invited to meeting No Internet + No Phone Signal so I waited..\n3:20pm - Our Group No. Came and went Introduced WebPlanify. After it ended Mohit said Kinjal Mama put Absent so I Message her for Re-check...",
+      "createdAt": 1764339268431
+    },
+    {
+      "id": "i8zzhb1el",
+      "isLongEvent": true,
+      "fromDate": "2025-11-07",
+      "fromTime": "08:15",
+      "toDate": "2025-11-07",
+      "toTime": "16:10",
+      "code": "J",
+      "name": "Job",
+      "points": 15,
+      "createdAt": 1774447005318
+    },
+    {
+      "id": "i98196dda",
+      "code": "L",
+      "name": "Lunch",
+      "points": 4,
+      "createdAt": 1762752570705,
+      "fromDate": "2025-11-10",
+      "fromTime": "13:12"
+    },
+    {
+      "id": "icf95dx9l",
+      "fromDate": "2025-11-03",
+      "fromTime": "09:35",
+      "code": "AU",
+      "name": "Auto",
+      "points": 1,
+      "debit": 100,
+      "moneyCode": "INR",
+      "description": "1st Rickshaw Fare charges =  20₹\n2st Rickshaw Fare charges = 60₹\nTotal                                      = 100₹",
+      "createdAt": 1762153195626
+    },
+    {
+      "id": "ikvofqvue",
+      "isLongEvent": true,
+      "fromDate": "2025-11-10",
+      "fromTime": "09:45",
+      "toDate": "2025-11-10",
+      "toTime": "13:08",
+      "code": "ST",
+      "name": "Street Level",
+      "points": 5,
+      "description": "Again Hall Ticket Signature 😵.....",
+      "createdAt": 1762752551152
+    },
+    {
+      "id": "il6ye7c09",
+      "isLongEvent": true,
+      "fromDate": "2025-11-19",
+      "fromTime": "14:30",
+      "toDate": "2025-11-19",
+      "toTime": "15:30",
+      "code": "S",
+      "name": "Sleep",
+      "points": 2,
+      "createdAt": 1763535447146
+    },
+    {
+      "id": "im4o6xhvj",
+      "code": "F",
+      "name": "Fresh",
+      "points": 1,
+      "createdAt": 1762665572130,
+      "fromDate": "2025-11-09",
+      "fromTime": "09:05"
+    },
+    {
+      "id": "iojudobas",
+      "isLongEvent": true,
+      "fromDate": "2025-11-22",
+      "fromTime": "00:30",
+      "toDate": "2025-11-23",
+      "toTime": "08:30",
+      "code": "S",
+      "name": "Sleep",
+      "points": 10,
+      "createdAt": 1763796424647
+    },
+    {
+      "id": "irgmoqkk6",
+      "isLongEvent": true,
+      "fromDate": "2025-11-03",
+      "fromTime": "11:15",
+      "toDate": "2025-11-03",
+      "toTime": "12:10",
+      "code": "AU",
+      "name": "Auto",
+      "points": 2,
+      "debit": 50,
+      "moneyCode": "INR",
+      "description": "(we talked a lot and become comfortable so he asked my train schedule and let me a Full Surat City ride by picking up 5-6 local customers and dropped them on there places and when the time reach he dropped me on station in very accurate Time) (Total = 50₹) to Reach Surat Station.\nStory = I was in an auto and a child 10 years old forcing his grandfather to sit in auto (behaviour: like he is mature + understanding) I thought boy running away from his mother due to his mistake but no the story was something else, grandfather want to know so he asked him in breaking words and random playful manner so he can explain in comfortable way. \n(Explain in short) = The boy parents had divorce and the boy custody go to his dad, the boy mother was his dad 2nd Wife, the boy was talking (childes way) \"my new mother is creating situation which let me Uncomfortable and don't want to stay there.\" + New mom means 4th wife of his dad (Shocked).\n(1st Wife) = Left because she want rich husband + She ran away with someone else.\n(2nd Wife) = She had kid (which was the boy) + left due to his husband bad habits + drinking problem.\n(3rd Wife) = She don't want to raise his 2nd Wife child + She was a Psycho + She killed his family member and got prison for Lifetime  + Child Abuse too.\n(4th Wife) = Is gold digger, married only for money, want expensive things like forcefully demanding Apple products, BMW car & luxurious life + she is cheating his husband by calling his 2-3 boyfriends in his Apartment, sleeping with them in Husband house and even his child existence in home taking hours not to coming out of his room with friends + taking drugs with his boyfriend inside his room + Smoking too much (Completely Failed as A Mother).\n\n(Boy) = He is tired of seeing his new Mothers Life and his Actions + Parenting Issue + Not getting Love and Care. \nI was hearing everything + Auto Driver too. My heart break and things, what was the boy fault why is childhood is getting ruined even I can feel his is each words have dark depth which made me Silent.",
+      "createdAt": 1762153264289
+    },
+    {
+      "id": "it3gcized",
+      "isLongEvent": true,
+      "fromDate": "2025-11-30",
+      "fromTime": "10:20",
+      "toDate": "2025-11-30",
+      "toTime": "11:10",
+      "code": "F",
+      "name": "Fresh",
+      "points": 2,
+      "createdAt": 1764512371851
+    },
+    {
+      "id": "iw7jbyhma",
+      "code": "F",
+      "name": "Fresh",
+      "points": 2,
+      "createdAt": 1762839417484,
+      "fromDate": "2025-11-11",
+      "fromTime": "10:55"
+    },
+    {
+      "id": "j4m0uqphy",
+      "fromDate": "2025-11-02",
+      "fromTime": "19:30",
+      "code": "Db",
+      "name": "Debit",
+      "points": 2,
+      "debit": 185,
+      "moneyCode": "INR",
+      "description": "Train Book - No Train Available, all are in Waiting List still Booked one 185₹",
+      "createdAt": 1762151613074
+    },
+    {
+      "id": "j4tpidiht",
+      "isLongEvent": true,
+      "fromDate": "2025-11-22",
+      "fromTime": "11:05",
+      "toDate": "2025-11-22",
+      "toTime": "12:55",
+      "code": "KBS-IMGS",
+      "name": "Image Scanning",
+      "points": 1,
+      "createdAt": 1763883428173
+    },
+    {
+      "id": "j6r8sf81x",
+      "code": "F",
+      "name": "Fresh",
+      "points": 1,
+      "createdAt": 1763361808883,
+      "fromDate": "2025-11-17",
+      "fromTime": "20:15"
+    },
+    {
+      "id": "j7qw8sbse",
+      "code": "L",
+      "name": "Lunch",
+      "points": 3,
+      "createdAt": 1762214090016,
+      "fromDate": "2025-11-04",
+      "fromTime": "13:10"
+    },
+    {
+      "id": "j8acbubs5",
+      "code": "T",
+      "name": "Travel",
+      "points": 2,
+      "createdAt": 1764425402587,
+      "fromDate": "2025-11-29",
+      "fromTime": "08:10"
+    },
+    {
+      "id": "j9avq10lo",
+      "code": "B",
+      "name": "Bath",
+      "points": 1,
+      "createdAt": 1763361544742,
+      "fromDate": "2025-11-17",
+      "fromTime": "06:40"
+    },
+    {
+      "id": "jaos94ze2",
+      "code": "D",
+      "name": "Dinner",
+      "points": 5,
+      "createdAt": 1763882658730,
+      "fromDate": "2025-11-23",
+      "fromTime": "20:50"
+    },
+    {
+      "id": "jdh6hbutu",
+      "isLongEvent": true,
+      "fromDate": "2025-11-28",
+      "fromTime": "08:50",
+      "toDate": "2025-11-28",
+      "toTime": "16:15",
+      "code": "J",
+      "name": "Job",
+      "points": 15,
+      "description": "4:00pm - Time was Over but Rivera Invitation Mail send to different College Principal was Pending.\n4:10pm - Completed and Head towards College Exit Gate.",
+      "createdAt": 1764339126378
+    },
+    {
+      "id": "jispg5l4e",
+      "code": "F",
+      "name": "Fresh",
+      "points": 1,
+      "createdAt": 1763186722359,
+      "fromDate": "2025-11-15",
+      "fromTime": "15:50"
+    },
+    {
+      "id": "jjp2ji1fg",
+      "code": "BF",
+      "name": "Breakfast",
+      "points": 2,
+      "createdAt": 1764078252112,
+      "fromDate": "2025-11-25",
+      "fromTime": "19:40"
+    },
+    {
+      "id": "jkhgflam3",
+      "code": "L",
+      "name": "Lunch",
+      "points": 4,
+      "createdAt": 1762926363797,
+      "fromDate": "2025-11-12",
+      "fromTime": "13:10"
+    },
+    {
+      "id": "jmfor7zdj",
+      "isLongEvent": true,
+      "fromDate": "2025-11-20",
+      "fromTime": "10:00",
+      "toDate": "2025-11-20",
+      "toTime": "12:30",
+      "code": "KBS-IMGS",
+      "name": "Image Scanning",
+      "points": 1,
+      "createdAt": 1763883129329
+    },
+    {
+      "id": "jokyfy302",
+      "code": "T",
+      "name": "Travel",
+      "points": 2,
+      "createdAt": 1762213943471,
+      "fromDate": "2025-11-04",
+      "fromTime": "09:00"
+    },
+    {
+      "id": "js7p772j8",
+      "code": "D",
+      "name": "Dinner",
+      "points": 3,
+      "createdAt": 1762214279764,
+      "fromDate": "2025-11-04",
+      "fromTime": "21:25"
+    },
+    {
+      "id": "jta40m2hj",
+      "code": "D",
+      "name": "Dinner",
+      "points": 3,
+      "createdAt": 1763186829169,
+      "fromDate": "2025-11-15",
+      "fromTime": "21:33"
+    },
+    {
+      "id": "jwgqr8ptv",
+      "code": "L",
+      "name": "Lunch",
+      "points": 5,
+      "createdAt": 1763621821106,
+      "fromDate": "2025-11-20",
+      "fromTime": "13:00"
+    },
+    {
+      "id": "jwondlqkd",
+      "code": "D",
+      "name": "Dinner",
+      "points": 3,
+      "createdAt": 1764339474518,
+      "fromDate": "2025-11-28",
+      "fromTime": "21:05"
+    },
+    {
+      "id": "jwp31z2e7",
+      "isLongEvent": true,
+      "fromDate": "2025-11-24",
+      "fromTime": "03:20",
+      "toDate": "2025-11-24",
+      "toTime": "06:30",
+      "code": "S",
+      "name": "Sleep",
+      "points": 5,
+      "createdAt": 1763882700393
+    },
+    {
+      "id": "jwphqn5wr",
+      "isLongEvent": true,
+      "fromDate": "2025-11-29",
+      "fromTime": "23:55",
+      "toDate": "2025-11-30",
+      "toTime": "07:30",
+      "code": "S",
+      "name": "Sleep",
+      "points": 10,
+      "createdAt": 1764425835396
+    },
+    {
+      "id": "jzhae1yuw",
+      "code": "BF",
+      "name": "Breakfast",
+      "points": 1,
+      "createdAt": 1762301686313,
+      "fromDate": "2025-11-05",
+      "fromTime": "16:15"
+    },
+    {
+      "id": "k7azyj1yd",
+      "code": "F",
+      "name": "Fresh",
+      "points": 1,
+      "createdAt": 1764078519602,
+      "fromDate": "2025-11-25",
+      "fromTime": "20:50"
+    },
+    {
+      "id": "kimyv0vik",
+      "code": "F",
+      "name": "Fresh",
+      "points": 2,
+      "createdAt": 1763013152798,
+      "fromDate": "2025-11-13",
+      "fromTime": "10:04"
+    },
+    {
+      "id": "kj4rz9y7v",
+      "code": "L",
+      "name": "Lunch",
+      "points": 4,
+      "createdAt": 1764425546815,
+      "fromDate": "2025-11-29",
+      "fromTime": "13:00"
+    },
+    {
+      "id": "kohw1qgj8",
+      "isLongEvent": true,
+      "fromDate": "2025-11-19",
+      "fromTime": "23:10",
+      "toDate": "2025-11-20",
+      "toTime": "06:00",
+      "code": "S",
+      "name": "Sleep",
+      "points": 10,
+      "createdAt": 1763535652710
+    },
+    {
+      "id": "ks5ht9rg7",
+      "code": "T",
+      "name": "Travel",
+      "points": 2,
+      "createdAt": 1763186570119,
+      "fromDate": "2025-11-15",
+      "fromTime": "08:05"
+    },
+    {
+      "id": "ktg5m3jw1",
+      "isLongEvent": true,
+      "fromDate": "2025-11-04",
+      "fromTime": "09:25",
+      "toDate": "2025-11-04",
+      "toTime": "14:15",
+      "code": "J",
+      "name": "Job",
+      "points": 15,
+      "description": "(Exit) did some Timepass + Fixing Door's gap form Rat's to stop coming inside.",
+      "createdAt": 1762213984373
+    },
+    {
+      "id": "kx85e5qhg",
+      "isLongEvent": true,
+      "fromDate": "2025-11-04",
+      "fromTime": "14:30",
+      "toDate": "2025-11-04",
+      "toTime": "15:30",
+      "code": "T",
+      "name": "Travel",
+      "points": 4,
+      "createdAt": 1762214133943
+    },
+    {
+      "id": "l1uxn1ngp",
+      "code": "MH",
+      "name": "Mahadev Mandir",
+      "points": 4,
+      "createdAt": 1763361576518,
+      "fromDate": "2025-11-17",
+      "fromTime": "07:00"
+    },
+    {
+      "id": "l6cmw1f5m",
+      "isLongEvent": true,
+      "fromDate": "2025-11-03",
+      "fromTime": "23:30",
+      "toDate": "2025-11-04",
+      "toTime": "07:50",
+      "code": "S",
+      "name": "Sleep",
+      "points": 10,
+      "description": "Heavy Sleep + Body Pain due to Travel. + Very Good 100%",
+      "createdAt": 1762153447657
+    },
+    {
+      "id": "l7wmp9ixj",
+      "code": "BF",
+      "name": "Breakfast",
+      "points": 2,
+      "createdAt": 1763796113410,
+      "fromDate": "2025-11-22",
+      "fromTime": "07:47"
+    },
+    {
+      "id": "l82mhqzum",
+      "code": "F",
+      "name": "Fresh",
+      "points": 1,
+      "createdAt": 1764078232908,
+      "fromDate": "2025-11-25",
+      "fromTime": "07:20"
+    },
+    {
+      "id": "la2zt7gql",
+      "code": "BF",
+      "name": "Breakfast",
+      "points": 2,
+      "createdAt": 1762665675830,
+      "fromDate": "2025-11-09",
+      "fromTime": "17:00"
+    },
+    {
+      "id": "lcjtkkeu5",
+      "code": "T",
+      "name": "Travel",
+      "points": 1,
+      "createdAt": 1763362078332,
+      "fromDate": "2025-11-18",
+      "fromTime": "07:55"
+    },
+    {
+      "id": "le8ohoc13",
+      "code": "F",
+      "name": "Fresh",
+      "points": 1,
+      "createdAt": 1762752318082,
+      "fromDate": "2025-11-10",
+      "fromTime": "06:40"
+    },
+    {
+      "id": "lhtz06auq",
+      "code": "L",
+      "name": "Lunch",
+      "points": 4,
+      "description": "It was Good but not Peaceful",
+      "createdAt": 1762064039386,
+      "fromDate": "2025-11-02",
+      "fromTime": "13:30"
+    },
+    {
+      "id": "lljsux13s",
+      "isLongEvent": true,
+      "fromDate": "2025-11-27",
+      "fromTime": "16:00",
+      "toDate": "2025-11-27",
+      "toTime": "17:50",
+      "code": "ST",
+      "name": "Street Level",
+      "points": 5,
+      "createdAt": 1764252090786
+    },
+    {
+      "id": "ltd8eg1sc",
+      "isLongEvent": true,
+      "fromDate": "2025-11-29",
+      "fromTime": "20:50",
+      "toDate": "2025-11-29",
+      "toTime": "23:25",
+      "code": "RJS-L",
+      "name": "Reactjs Learning",
+      "points": 15,
+      "createdAt": 1764425760234
+    },
+    {
+      "id": "m0ar3pwn9",
+      "code": "T",
+      "name": "Travel",
+      "points": 2,
+      "createdAt": 1762839372977,
+      "fromDate": "2025-11-11",
+      "fromTime": "08:05"
+    },
+    {
+      "id": "m6yx2yq33",
+      "code": "W",
+      "name": "Walking",
+      "points": 2,
+      "createdAt": 1762665693736,
+      "fromDate": "2025-11-09",
+      "fromTime": "17:50"
+    },
+    {
+      "id": "m763ksl5u",
+      "fromDate": "2025-11-03",
+      "fromTime": "09:10",
+      "code": "M",
+      "name": "Meal",
+      "points": 2,
+      "debit": 30,
+      "moneyCode": "INR",
+      "description": "Vada Pav + Tea = 30₹",
+      "createdAt": 1762154108015
+    },
+    {
+      "id": "mad7kpv6q",
+      "isLongEvent": true,
+      "fromDate": "2025-11-30",
+      "fromTime": "08:12",
+      "toDate": "2025-11-30",
+      "toTime": "12:40",
+      "code": "RJS-L",
+      "name": "Reactjs Learning",
+      "points": 15,
+      "createdAt": 1764512340107
+    },
+    {
+      "id": "mfxh9lga0",
+      "code": "W",
+      "name": "Walking",
+      "points": 2,
+      "createdAt": 1762839440246,
+      "fromDate": "2025-11-11",
+      "fromTime": "11:15"
+    },
+    {
+      "id": "mr7g1yvu0",
+      "code": "F",
+      "name": "Fresh",
+      "points": 1,
+      "createdAt": 1763361527813,
+      "fromDate": "2025-11-17",
+      "fromTime": "06:35"
+    },
+    {
+      "id": "ms75s033-7b4ltx",
+      "fromDate": "2025-11-30",
+      "fromTime": "23:57",
+      "code": "DIARY",
+      "name": "Diary",
+      "points": 2,
+      "description": "November 2025 Image in PDF Format ✅",
+      "attachment": "https://code-dump-snowy.vercel.app/api/raw?path=uploads/drive/SoloDiary/SnapImages/Snap-2025/11_snap_images_NOV-2025.pdf",
+      "createdAt": 1785394483311
+    },
+    {
+      "id": "ms75s033-caqyp3",
+      "fromDate": "2025-11-30",
+      "fromTime": "23:59",
+      "code": "DIARY",
+      "name": "Diary",
+      "points": 2,
+      "description": "November 2025 Exported \".json\" Database ✅",
+      "attachment": "https://code-dump-snowy.vercel.app/api/raw?path=uploads/drive/SoloDiary/DatabaseBackup/Backup-2025/11_db_NOV-2025.json",
+      "createdAt": 1785394483311
+    },
+    {
+      "id": "ms75s033-m9w8qh",
+      "fromDate": "2025-11-30",
+      "fromTime": "23:58",
+      "code": "DIARY",
+      "name": "Diary",
+      "points": 2,
+      "description": "November 2025 Diary Html Report Uploaded ✅",
+      "attachment": "https://code-dump-snowy.vercel.app/api/raw?path=uploads/drive/SoloDiary/ReportGenerated/Report-2025/11_html_NOV-2025.html",
+      "createdAt": 1785394483311
+    },
+    {
+      "id": "muiwz41y7",
+      "code": "L",
+      "name": "Lunch",
+      "points": 4,
+      "createdAt": 1763796195480,
+      "fromDate": "2025-11-22",
+      "fromTime": "13:00"
+    },
+    {
+      "id": "my1n69v7x",
+      "isLongEvent": true,
+      "fromDate": "2025-11-27",
+      "fromTime": "20:25",
+      "toDate": "2025-11-27",
+      "toTime": "21:20",
+      "code": "GMEET",
+      "name": "Google Meeting",
+      "points": 3,
+      "createdAt": 1764252284074
+    },
+    {
+      "id": "n6ti7cvly",
+      "code": "F",
+      "name": "Fresh",
+      "points": 1,
+      "createdAt": 1764512511165,
+      "fromDate": "2025-11-30",
+      "fromTime": "18:05"
+    },
+    {
+      "id": "n8qg9rsc8",
+      "code": "F",
+      "name": "Fresh",
+      "points": 2,
+      "createdAt": 1762926330876,
+      "fromDate": "2025-11-12",
+      "fromTime": "10:32"
+    },
+    {
+      "id": "n8zqpsbj3",
+      "code": "L",
+      "name": "Lunch",
+      "points": 3,
+      "createdAt": 1763361682224,
+      "fromDate": "2025-11-17",
+      "fromTime": "13:00"
+    },
+    {
+      "id": "na8mo8xx6",
+      "code": "F",
+      "name": "Fresh",
+      "points": 1,
+      "createdAt": 1762839478817,
+      "fromDate": "2025-11-11",
+      "fromTime": "02:30"
+    },
+    {
+      "id": "nbi5mjqpa",
+      "code": "D",
+      "name": "Dinner",
+      "points": 4,
+      "createdAt": 1763709996880,
+      "fromDate": "2025-11-21",
+      "fromTime": "21:20"
+    },
+    {
+      "id": "nf1stv2e6",
+      "code": "W",
+      "name": "Walking",
+      "points": 5,
+      "description": "Took a Breath in Surat City (Beautiful).",
+      "createdAt": 1762153164242,
+      "fromDate": "2025-11-03",
+      "fromTime": "09:30"
+    },
+    {
+      "id": "ng3qx010j",
+      "code": "L",
+      "name": "Lunch",
+      "points": 5,
+      "description": "Chicken Biryani",
+      "createdAt": 1763274990727,
+      "fromDate": "2025-11-16",
+      "fromTime": "13:05"
+    },
+    {
+      "id": "nirowq9lg",
+      "isLongEvent": true,
+      "fromDate": "2025-11-10",
+      "fromTime": "13:35",
+      "toDate": "2025-11-10",
+      "toTime": "15:35",
+      "code": "ST",
+      "name": "Street Level",
+      "points": 5,
+      "description": "VNSGU Exam Form Each Student Subject Changed Work 😵✅",
+      "createdAt": 1762752636092
+    },
+    {
+      "id": "no5j905sy",
+      "code": "W",
+      "name": "Walking",
+      "points": 2,
+      "createdAt": 1762752707831,
+      "fromDate": "2025-11-10",
+      "fromTime": "17:10"
+    },
+    {
+      "id": "npld55zvm",
+      "code": "F",
+      "name": "Fresh",
+      "points": 1,
+      "createdAt": 1763100041978,
+      "fromDate": "2025-11-14",
+      "fromTime": "16:50"
+    },
+    {
+      "id": "nrugjm9d8",
+      "code": "T",
+      "name": "Travel",
+      "points": 1,
+      "description": "Reached Vapi Railway Station on Time...",
+      "createdAt": 1762151689892,
+      "fromDate": "2025-11-03",
+      "fromTime": "07:10"
+    },
+    {
+      "id": "nu2cxn9bp",
+      "code": "F",
+      "name": "Fresh",
+      "points": 2,
+      "createdAt": 1763099848685,
+      "fromDate": "2025-11-14",
+      "fromTime": "10:05"
+    },
+    {
+      "id": "nwnwknw7z",
+      "isLongEvent": true,
+      "fromDate": "2025-11-19",
+      "fromTime": "16:30",
+      "toDate": "2025-11-19",
+      "toTime": "18:00",
+      "code": "PU-TE",
+      "name": "Parul Theory Exam",
+      "points": 20,
+      "createdAt": 1763535555851
+    },
+    {
+      "id": "o8tpxa7c3",
+      "code": "BF",
+      "name": "Breakfast",
+      "points": 3,
+      "createdAt": 1762063975812,
+      "fromDate": "2025-11-02",
+      "fromTime": "08:25"
+    },
+    {
+      "id": "obrd4n883",
+      "code": "BF",
+      "name": "Breakfast",
+      "points": 1,
+      "createdAt": 1761977334866,
+      "fromDate": "2025-11-01",
+      "fromTime": "15:35"
+    },
+    {
+      "id": "ojs7x8zot",
+      "code": "M",
+      "name": "Meal",
+      "points": 3,
+      "createdAt": 1763535584757,
+      "fromDate": "2025-11-19",
+      "fromTime": "19:00"
+    },
+    {
+      "id": "oju60axvx",
+      "code": "F",
+      "name": "Fresh",
+      "points": 1,
+      "createdAt": 1764425723311,
+      "fromDate": "2025-11-29",
+      "fromTime": "20:30"
+    },
+    {
+      "id": "oo4tpw12k",
+      "code": "F",
+      "name": "Fresh",
+      "points": 1,
+      "createdAt": 1763013275903,
+      "fromDate": "2025-11-13",
+      "fromTime": "16:50"
+    },
+    {
+      "id": "opbys51f6",
+      "code": "F",
+      "name": "Fresh",
+      "points": 1,
+      "createdAt": 1763796210614,
+      "fromDate": "2025-11-22",
+      "fromTime": "13:55"
+    },
+    {
+      "id": "ovv3atc5b",
+      "code": "BF",
+      "name": "Breakfast",
+      "points": 2,
+      "createdAt": 1764251909193,
+      "fromDate": "2025-11-27",
+      "fromTime": "07:25"
+    },
+    {
+      "id": "owzwb9aqb",
+      "code": "BF",
+      "name": "Breakfast",
+      "points": 2,
+      "createdAt": 1764165085662,
+      "fromDate": "2025-11-26",
+      "fromTime": "07:45"
+    },
+    {
+      "id": "p14w29pyw",
+      "code": "L",
+      "name": "Lunch",
+      "points": 4,
+      "createdAt": 1763099904938,
+      "fromDate": "2025-11-14",
+      "fromTime": "13:05"
+    },
+    {
+      "id": "p3pgg3huh",
+      "code": "T",
+      "name": "Travel",
+      "points": 2,
+      "createdAt": 1764251930896,
+      "fromDate": "2025-11-27",
+      "fromTime": "08:10"
+    },
+    {
+      "id": "p434cvae3",
+      "code": "D",
+      "name": "Dinner",
+      "points": 5,
+      "createdAt": 1764165345319,
+      "fromDate": "2025-11-26",
+      "fromTime": "21:10"
+    },
+    {
+      "id": "p4an0f7lb",
+      "code": "BF",
+      "name": "Breakfast",
+      "points": 1,
+      "createdAt": 1763709898192,
+      "fromDate": "2025-11-21",
+      "fromTime": "16:50"
+    },
+    {
+      "id": "p56fepakv",
+      "code": "F",
+      "name": "Fresh",
+      "points": 2,
+      "createdAt": 1763621900708,
+      "fromDate": "2025-11-20",
+      "fromTime": "20:40"
+    },
+    {
+      "id": "p56mxpzz5",
+      "code": "BF",
+      "name": "Breakfast",
+      "points": 2,
+      "createdAt": 1763882510583,
+      "fromDate": "2025-11-23",
+      "fromTime": "09:10"
+    },
+    {
+      "id": "p9xa4k9xj",
+      "code": "BF",
+      "name": "Breakfast",
+      "points": 2,
+      "createdAt": 1763274829237,
+      "fromDate": "2025-11-16",
+      "fromTime": "09:50"
+    },
+    {
+      "id": "pal09bitw",
+      "code": "PH",
+      "name": "Phone Call",
+      "points": 1,
+      "description": "Call from Ravi Sir Regarding Tomorrow visit at VNSGU Department for College Work.",
+      "createdAt": 1762064103613,
+      "fromDate": "2025-11-02",
+      "fromTime": "16:10"
+    },
+    {
+      "id": "pdepw15ad",
+      "isLongEvent": true,
+      "fromDate": "2025-11-20",
+      "fromTime": "23:30",
+      "toDate": "2025-11-21",
+      "toTime": "06:00",
+      "code": "S",
+      "name": "Sleep",
+      "points": 10,
+      "createdAt": 1763621944425
+    },
+    {
+      "id": "pln5gtg7f",
+      "code": "W",
+      "name": "Walking",
+      "points": 1,
+      "createdAt": 1761977353711,
+      "fromDate": "2025-11-01",
+      "fromTime": "16:20"
+    },
+    {
+      "id": "pnok0zw38",
+      "code": "M",
+      "name": "Meal",
+      "points": 5,
+      "createdAt": 1764425530243,
+      "fromDate": "2025-11-29",
+      "fromTime": "12:00"
+    },
+    {
+      "id": "pp42nskr3",
+      "code": "F",
+      "name": "Fresh",
+      "points": 1,
+      "createdAt": 1763882498074,
+      "fromDate": "2025-11-23",
+      "fromTime": "08:55"
+    },
+    {
+      "id": "pqjlcxx6m",
+      "code": "BF",
+      "name": "Breakfast",
+      "points": 1,
+      "createdAt": 1762301536293,
+      "fromDate": "2025-11-05",
+      "fromTime": "10:00"
+    },
+    {
+      "id": "pswjdznix",
+      "code": "M",
+      "name": "Meal",
+      "points": 2,
+      "description": "Garlic Panner Chess Mozzarella Sandwich.",
+      "createdAt": 1762388444318,
+      "fromDate": "2025-11-06",
+      "fromTime": "16:40"
+    },
+    {
+      "id": "pza6d05lk",
+      "code": "BF",
+      "name": "Breakfast",
+      "points": 1,
+      "createdAt": 1762752684243,
+      "fromDate": "2025-11-10",
+      "fromTime": "16:20"
+    },
+    {
+      "id": "q08jcfgrm",
+      "code": "F",
+      "name": "Fresh",
+      "points": 1,
+      "createdAt": 1763013225813,
+      "fromDate": "2025-11-13",
+      "fromTime": "15:05"
+    },
+    {
+      "id": "qcf3gm5pz",
+      "isLongEvent": true,
+      "fromDate": "2025-11-27",
+      "fromTime": "18:25",
+      "toDate": "2025-11-27",
+      "toTime": "19:40",
+      "code": "PU-PE",
+      "name": "Parul Practical Exam",
+      "points": 20,
+      "createdAt": 1764252204884
+    },
+    {
+      "id": "qfqzg4a9m",
+      "code": "T",
+      "name": "Travel",
+      "points": 1,
+      "createdAt": 1762578903263,
+      "fromDate": "2025-11-08",
+      "fromTime": "16:20"
+    },
+    {
+      "id": "qjhqqdicr",
+      "code": "B",
+      "name": "Bath",
+      "points": 5,
+      "createdAt": 1764425692170,
+      "fromDate": "2025-11-29",
+      "fromTime": "18:30"
+    },
+    {
+      "id": "qoq0awydn",
+      "code": "D",
+      "name": "Dinner",
+      "points": 3,
+      "createdAt": 1764425786817,
+      "fromDate": "2025-11-29",
+      "fromTime": "21:10"
+    },
+    {
+      "id": "qql1478im",
+      "code": "PH",
+      "name": "Phone Call",
+      "points": 2,
+      "createdAt": 1764425678878,
+      "fromDate": "2025-11-29",
+      "fromTime": "18:00"
+    },
+    {
+      "id": "qw22s1p3w",
+      "code": "BF",
+      "name": "Breakfast",
+      "points": 2,
+      "createdAt": 1764512288493,
+      "fromDate": "2025-11-30",
+      "fromTime": "07:45"
+    },
+    {
+      "id": "qzh76p0d3",
+      "isLongEvent": true,
+      "fromDate": "2025-11-09",
+      "fromTime": "14:50",
+      "toDate": "2025-11-09",
+      "toTime": "16:30",
+      "code": "S",
+      "name": "Sleep",
+      "points": 3,
+      "createdAt": 1762665649981
+    },
+    {
+      "id": "r1o9s64c1",
+      "code": "F",
+      "name": "Fresh",
+      "points": 1,
+      "createdAt": 1763274817879,
+      "fromDate": "2025-11-16",
+      "fromTime": "09:05"
+    },
+    {
+      "id": "r27ht5krc",
+      "code": "B",
+      "name": "Bath",
+      "points": 5,
+      "createdAt": 1763448799128,
+      "fromDate": "2025-11-18",
+      "fromTime": "19:10"
+    },
+    {
+      "id": "r3wnf2st0",
+      "code": "T",
+      "name": "Travel",
+      "points": 2,
+      "description": "After that I Reached Home @ 5:10pm and Did A Rest Due to Exam Frustration.",
+      "createdAt": 1764339342455,
+      "fromDate": "2025-11-28",
+      "fromTime": "17:10"
+    },
+    {
+      "id": "r78wn33s8",
+      "code": "T",
+      "name": "Travel",
+      "points": 2,
+      "createdAt": 1763100025940,
+      "fromDate": "2025-11-14",
+      "fromTime": "16:05"
+    },
+    {
+      "id": "r9fepbc0p",
+      "isLongEvent": true,
+      "fromDate": "2025-11-15",
+      "fromTime": "08:30",
+      "toDate": "2025-11-15",
+      "toTime": "16:10",
+      "code": "J",
+      "name": "Job",
+      "points": 15,
+      "createdAt": 1763186602694
+    },
+    {
+      "id": "rbgeovnpa",
+      "code": "BF",
+      "name": "Breakfast",
+      "points": 2,
+      "createdAt": 1763621729376,
+      "fromDate": "2025-11-20",
+      "fromTime": "07:25"
+    },
+    {
+      "id": "rd7pyxmtk",
+      "code": "F",
+      "name": "Fresh",
+      "points": 2,
+      "createdAt": 1762153380973,
+      "fromDate": "2025-11-03",
+      "fromTime": "16:12"
+    },
+    {
+      "id": "rdabwn0qk",
+      "code": "BF",
+      "name": "Breakfast",
+      "points": 1,
+      "createdAt": 1762388252155,
+      "fromDate": "2025-11-06",
+      "fromTime": "07:10"
+    },
+    {
+      "id": "riw466uni",
+      "code": "T",
+      "name": "Travel",
+      "points": 2,
+      "createdAt": 1762926392223,
+      "fromDate": "2025-11-12",
+      "fromTime": "16:05"
+    },
+    {
+      "id": "rj9d671jk",
+      "isLongEvent": true,
+      "fromDate": "2025-11-04",
+      "fromTime": "18:45",
+      "toDate": "2025-11-04",
+      "toTime": "19:30",
+      "code": "T",
+      "name": "Travel",
+      "points": 3,
+      "description": "Highway with No Headlight + Heavy Vehicle Traffic.",
+      "createdAt": 1762214229321
+    },
+    {
+      "id": "rlb9kx4sb",
+      "code": "L",
+      "name": "Lunch",
+      "points": 3,
+      "createdAt": 1764512391918,
+      "fromDate": "2025-11-30",
+      "fromTime": "13:00"
+    },
+    {
+      "id": "ry4smw044",
+      "code": "D",
+      "name": "Dinner",
+      "points": 5,
+      "createdAt": 1763535613837,
+      "fromDate": "2025-11-19",
+      "fromTime": "21:55"
+    },
+    {
+      "id": "s6f6nwu78",
+      "code": "L",
+      "name": "Lunch",
+      "points": 3,
+      "createdAt": 1774447112882,
+      "fromDate": "2025-11-07",
+      "fromTime": "13:02"
+    },
+    {
+      "id": "sa2x8yj9j",
+      "code": "T",
+      "name": "Travel",
+      "points": 2,
+      "createdAt": 1762926272962,
+      "fromDate": "2025-11-12",
+      "fromTime": "08:02"
+    },
+    {
+      "id": "sburef37o",
+      "code": "H",
+      "name": "Hair Cutting",
+      "points": 5,
+      "debit": 60,
+      "description": "Pravin Bhai",
+      "createdAt": 1761977375717,
+      "fromDate": "2025-11-01",
+      "fromTime": "17:00"
+    },
+    {
+      "id": "sc6y9jdht",
+      "code": "BF",
+      "name": "Breakfast",
+      "points": 1,
+      "createdAt": 1763448698806,
+      "fromDate": "2025-11-18",
+      "fromTime": "16:10"
+    },
+    {
+      "id": "sdsme8x3m",
+      "isLongEvent": true,
+      "fromDate": "2025-11-27",
+      "fromTime": "10:00",
+      "toDate": "2025-11-27",
+      "toTime": "12:45",
+      "code": "KBS-IMGS",
+      "name": "Image Scanning",
+      "points": 4,
+      "createdAt": 1764252029122
+    },
+    {
+      "id": "sj0z0n0c0",
+      "code": "W",
+      "name": "Walking",
+      "points": 2,
+      "createdAt": 1762926445179,
+      "fromDate": "2025-11-12",
+      "fromTime": "17:00"
+    },
+    {
+      "id": "slvvcoz3j",
+      "isLongEvent": true,
+      "fromDate": "2025-11-28",
+      "fromTime": "20:00",
+      "toDate": "2025-11-28",
+      "toTime": "23:00",
+      "code": "RJS-L",
+      "name": "Reactjs Learning",
+      "points": 5,
+      "description": "Taking Overview to Save Time (Preparing in Advance)",
+      "createdAt": 1764339454968
+    },
+    {
+      "id": "sq5eh477i",
+      "code": "T",
+      "name": "Travel",
+      "points": 1,
+      "createdAt": 1763882623607,
+      "fromDate": "2025-11-23",
+      "fromTime": "18:30"
+    },
+    {
+      "id": "suk07rmvj",
+      "isLongEvent": true,
+      "fromDate": "2025-11-03",
+      "fromTime": "07:21",
+      "toDate": "2025-11-03",
+      "toTime": "08:30",
+      "code": "T",
+      "name": "Travel",
+      "points": 5,
+      "description": "Got the Train @ 7:30 but Extreme Rush in Train + TT Check Done  : - )\n@8:30 - Reached on Surat Railway Station",
+      "createdAt": 1762151723135
+    },
+    {
+      "id": "sx2khv2we",
+      "code": "L",
+      "name": "Lunch",
+      "points": 3,
+      "createdAt": 1764339188708,
+      "fromDate": "2025-11-28",
+      "fromTime": "13:00"
+    },
+    {
+      "id": "t7k3zi8f9",
+      "isLongEvent": true,
+      "fromDate": "2025-11-21",
+      "fromTime": "10:30",
+      "toDate": "2025-11-21",
+      "toTime": "12:15",
+      "code": "KBS-IMGS",
+      "name": "Image Scanning",
+      "points": 1,
+      "createdAt": 1763883221824
+    },
+    {
+      "id": "t7sy11cov",
+      "code": "D",
+      "name": "Dinner",
+      "points": 5,
+      "createdAt": 1763991720629,
+      "fromDate": "2025-11-24",
+      "fromTime": "21:10"
+    },
+    {
+      "id": "t86ftx0ls",
+      "code": "F",
+      "name": "Fresh",
+      "points": 2,
+      "createdAt": 1762388396851,
+      "fromDate": "2025-11-06",
+      "fromTime": "11:47"
+    },
+    {
+      "id": "thizqif95",
+      "code": "BF",
+      "name": "Breakfast",
+      "points": 2,
+      "createdAt": 1764339055678,
+      "fromDate": "2025-11-28",
+      "fromTime": "07:30"
+    },
+    {
+      "id": "tjawpn5lp",
+      "isLongEvent": true,
+      "fromDate": "2025-11-24",
+      "fromTime": "18:40",
+      "toDate": "2025-11-24",
+      "toTime": "20:00",
+      "code": "GMEET",
+      "name": "Google Meeting",
+      "points": 5,
+      "createdAt": 1763991690041
+    },
+    {
+      "id": "tsw7a6020",
+      "isLongEvent": true,
+      "fromDate": "2025-11-25",
+      "fromTime": "17:00",
+      "toDate": "2025-11-25",
+      "toTime": "18:20",
+      "code": "PU-PE",
+      "name": "Parul Practical Exam",
+      "points": 20,
+      "createdAt": 1764078449510
+    },
+    {
+      "id": "tuf9v4w92",
+      "code": "T",
+      "name": "Travel",
+      "points": 2,
+      "description": "Too much Traffic with No Place to Ride Vehicle.",
+      "createdAt": 1774446957568,
+      "fromDate": "2025-11-07",
+      "fromTime": "08:00"
+    },
+    {
+      "id": "tuhaltuf4",
+      "isLongEvent": true,
+      "fromDate": "2025-11-26",
+      "fromTime": "17:00",
+      "toDate": "2025-11-26",
+      "toTime": "18:35",
+      "code": "PU-PE",
+      "name": "Parul Practical Exam",
+      "points": 20,
+      "createdAt": 1764165298067
+    },
+    {
+      "id": "twgwrfdcw",
+      "code": "F",
+      "name": "Fresh",
+      "points": 1,
+      "createdAt": 1764165250044,
+      "fromDate": "2025-11-26",
+      "fromTime": "16:30"
+    },
+    {
+      "id": "tylhox8qi",
+      "code": "NW",
+      "name": "No Work",
+      "points": 5,
+      "description": "No Work + Truth Metting then Stress.",
+      "createdAt": 1762388358004,
+      "fromDate": "2025-11-06",
+      "fromTime": "09:00"
+    },
+    {
+      "id": "tyouyswby",
+      "code": "W",
+      "name": "Walking",
+      "points": 2,
+      "createdAt": 1763100064415,
+      "fromDate": "2025-11-14",
+      "fromTime": "19:40"
+    },
+    {
+      "id": "u1wfe7uc3",
+      "code": "BF",
+      "name": "Breakfast",
+      "points": 1,
+      "createdAt": 1763013006796,
+      "fromDate": "2025-11-13",
+      "fromTime": "07:35"
+    },
+    {
+      "id": "u48bq1yab",
+      "code": "BF",
+      "name": "Breakfast",
+      "points": 1,
+      "createdAt": 1762578923952,
+      "fromDate": "2025-11-08",
+      "fromTime": "17:00"
+    },
+    {
+      "id": "u6dcox66e",
+      "isLongEvent": true,
+      "fromDate": "2025-11-01",
+      "fromTime": "14:30",
+      "toDate": "2025-11-01",
+      "toTime": "15:30",
+      "code": "S",
+      "name": "Sleep",
+      "points": 1,
+      "createdAt": 1761977290196
+    },
+    {
+      "id": "ubpnithno",
+      "code": "M",
+      "name": "Meal",
+      "points": 2,
+      "description": "Boiled Egg + Dry fruits in Office Time.",
+      "createdAt": 1774447040395,
+      "fromDate": "2025-11-07",
+      "fromTime": "08:35"
+    },
+    {
+      "id": "uds9ikp1b",
+      "code": "F",
+      "name": "Fresh",
+      "points": 1,
+      "createdAt": 1763991400161,
+      "fromDate": "2025-11-24",
+      "fromTime": "06:35"
+    },
+    {
+      "id": "ufv30hxc8",
+      "code": "T",
+      "name": "Travel",
+      "points": 2,
+      "createdAt": 1763991456264,
+      "fromDate": "2025-11-24",
+      "fromTime": "07:55"
+    },
+    {
+      "id": "uiz23fv2c",
+      "code": "F",
+      "name": "Fresh",
+      "points": 1,
+      "createdAt": 1764425377868,
+      "fromDate": "2025-11-29",
+      "fromTime": "07:15"
+    },
+    {
+      "id": "uk5q4rimb",
+      "isLongEvent": true,
+      "fromDate": "2025-11-29",
+      "fromTime": "15:45",
+      "toDate": "2025-11-29",
+      "toTime": "16:45",
+      "code": "ST",
+      "name": "Street Level",
+      "points": 5,
+      "createdAt": 1764425585793
+    },
+    {
+      "id": "uldi75qoo",
+      "code": "BF",
+      "name": "Breakfast",
+      "points": 1,
+      "createdAt": 1763013208708,
+      "fromDate": "2025-11-13",
+      "fromTime": "13:50"
+    },
+    {
+      "id": "unocec8zc",
+      "code": "W",
+      "name": "Walking",
+      "points": 2,
+      "createdAt": 1764339389745,
+      "fromDate": "2025-11-28",
+      "fromTime": "18:50"
+    },
+    {
+      "id": "urpa30p4w",
+      "isLongEvent": true,
+      "fromDate": "2025-11-17",
+      "fromTime": "10:00",
+      "toDate": "2025-11-17",
+      "toTime": "11:00",
+      "code": "ST",
+      "name": "Street Level",
+      "points": 2,
+      "createdAt": 1763361648570
+    },
+    {
+      "id": "uv214h4c6",
+      "isLongEvent": true,
+      "fromDate": "2025-11-20",
+      "fromTime": "14:00",
+      "toDate": "2025-11-20",
+      "toTime": "15:55",
+      "code": "KBS-IMGS",
+      "name": "Image Scanning",
+      "points": 1,
+      "createdAt": 1763883173914
+    },
+    {
+      "id": "uygzc84pl",
+      "code": "BF",
+      "name": "Breakfast",
+      "points": 2,
+      "createdAt": 1763535529129,
+      "fromDate": "2025-11-19",
+      "fromTime": "16:00"
+    },
+    {
+      "id": "v0jpmsn2k",
+      "code": "RJS-L",
+      "name": "Reactjs Learning",
+      "points": 5,
+      "createdAt": 1764425498783,
+      "fromDate": "2025-11-29",
+      "fromTime": "10:35"
+    },
+    {
+      "id": "v2fqxft4t",
+      "code": "F",
+      "name": "Fresh",
+      "points": 1,
+      "createdAt": 1764425466891,
+      "fromDate": "2025-11-29",
+      "fromTime": "10:10"
+    },
+    {
+      "id": "v87jcnb9v",
+      "isLongEvent": true,
+      "fromDate": "2025-11-07",
+      "fromTime": "13:25",
+      "toDate": "2025-11-07",
+      "toTime": "16:00",
+      "code": "ST",
+      "name": "Street Level",
+      "points": 5,
+      "description": "After the Hall Ticket they forced me to Complete Rivera Brochure pamphlet PPT with complete Editing 0-100% Done  : - ) (now I am Exhausted)",
+      "createdAt": 1774447162675
+    },
+    {
+      "id": "va7rtn8g4",
+      "isLongEvent": true,
+      "fromDate": "2025-11-22",
+      "fromTime": "08:30",
+      "toDate": "2025-11-22",
+      "toTime": "16:00",
+      "code": "J",
+      "name": "Job",
+      "points": 15,
+      "createdAt": 1763796170021
+    },
+    {
+      "id": "vbxrejtn7",
+      "isLongEvent": true,
+      "fromDate": "2025-11-18",
+      "fromTime": "14:35",
+      "toDate": "2025-11-18",
+      "toTime": "16:00",
+      "code": "S",
+      "name": "Sleep",
+      "points": 5,
+      "createdAt": 1763448673955
+    },
+    {
+      "id": "ve5238kqa",
+      "code": "W",
+      "name": "Walking",
+      "points": 1,
+      "description": "Went to Thamise Lab for Color Print for Rivera 2025-26",
+      "createdAt": 1762578702079,
+      "fromDate": "2025-11-08",
+      "fromTime": "08:11"
+    },
+    {
+      "id": "vi99xvdbc",
+      "code": "T",
+      "name": "Travel",
+      "points": 2,
+      "createdAt": 1763796229452,
+      "fromDate": "2025-11-22",
+      "fromTime": "16:10"
+    },
+    {
+      "id": "vopo42zh5",
+      "isLongEvent": true,
+      "fromDate": "2025-11-02",
+      "fromTime": "10:30",
+      "toDate": "2025-11-02",
+      "toTime": "12:00",
+      "code": "ST",
+      "name": "Street Level",
+      "points": 5,
+      "description": "Guest have Visited @ Home Worst Sunday.",
+      "createdAt": 1762064005225
+    },
+    {
+      "id": "vqpw3dhzj",
+      "code": "T",
+      "name": "Travel",
+      "points": 2,
+      "createdAt": 1763099754952,
+      "fromDate": "2025-11-14",
+      "fromTime": "08:00"
+    },
+    {
+      "id": "vrq5w45bv",
+      "isLongEvent": true,
+      "fromDate": "2025-11-10",
+      "fromTime": "17:15",
+      "toDate": "2025-11-10",
+      "toTime": "18:30",
+      "code": "PU-ME",
+      "name": "Parul Mock Exam",
+      "points": 20,
+      "description": "Parle University Mock Exam till 6:30 pm\n(ML) = Machine learning MCQ + Long Answers \n(DL) = Deep Learning Practical Exam",
+      "createdAt": 1762752745976
+    },
+    {
+      "id": "vy96rj3w3",
+      "code": "B",
+      "name": "Bath",
+      "points": 5,
+      "createdAt": 1763796328437,
+      "fromDate": "2025-11-22",
+      "fromTime": "18:45"
+    },
+    {
+      "id": "vzaxg6fi3",
+      "isLongEvent": true,
+      "fromDate": "2025-11-01",
+      "fromTime": "00:30",
+      "toDate": "2025-11-01",
+      "toTime": "08:00",
+      "code": "S",
+      "name": "Sleep",
+      "points": 8,
+      "createdAt": 1761976989903
+    },
+    {
+      "id": "vzvowcxjp",
+      "fromDate": "2025-11-28",
+      "fromTime": "16:25",
+      "code": "Cr",
+      "name": "Credit",
+      "points": 5,
+      "credit": 500,
+      "moneyCode": "INR",
+      "description": "500₹ from ICICI Bank (Cash)",
+      "createdAt": 1764339297791
+    },
+    {
+      "id": "w66ovklvu",
+      "isLongEvent": true,
+      "fromDate": "2025-11-25",
+      "fromTime": "08:30",
+      "toDate": "2025-11-25",
+      "toTime": "16:02",
+      "code": "J",
+      "name": "Job",
+      "points": 15,
+      "createdAt": 1764078306040
+    },
+    {
+      "id": "w6afx4wt7",
+      "code": "D",
+      "name": "Dinner",
+      "points": 3,
+      "createdAt": 1763796388322,
+      "fromDate": "2025-11-22",
+      "fromTime": "21:15"
+    },
+    {
+      "id": "w7x4u5f5l",
+      "code": "F",
+      "name": "Fresh",
+      "points": 1,
+      "createdAt": 1763709698773,
+      "fromDate": "2025-11-21",
+      "fromTime": "07:10"
+    },
+    {
+      "id": "w9yzmg20o",
+      "isLongEvent": true,
+      "fromDate": "2025-11-06",
+      "fromTime": "23:30",
+      "toDate": "2025-11-07",
+      "toTime": "07:00",
+      "code": "S",
+      "name": "Sleep",
+      "points": 8,
+      "createdAt": 1762388497467
+    },
+    {
+      "id": "wg5er2h91",
+      "code": "BF",
+      "name": "Breakfast",
+      "points": 1,
+      "createdAt": 1763621865979,
+      "fromDate": "2025-11-20",
+      "fromTime": "16:50"
+    },
+    {
+      "id": "wksvwmo9a",
+      "code": "D",
+      "name": "Dinner",
+      "points": 3,
+      "description": "Good but Not Peaceful.",
+      "createdAt": 1762064205222,
+      "fromDate": "2025-11-02",
+      "fromTime": "21:35"
+    },
+    {
+      "id": "wotgd9hit",
+      "code": "L",
+      "name": "Lunch",
+      "points": 3,
+      "createdAt": 1761977223688,
+      "fromDate": "2025-11-01",
+      "fromTime": "13:05"
+    },
+    {
+      "id": "wpj8ylrt3",
+      "code": "W",
+      "name": "Walking",
+      "points": 5,
+      "createdAt": 1763535383614,
+      "fromDate": "2025-11-19",
+      "fromTime": "11:50"
+    },
+    {
+      "id": "wrczpbfuf",
+      "isLongEvent": true,
+      "fromDate": "2025-11-15",
+      "fromTime": "17:00",
+      "toDate": "2025-11-15",
+      "toTime": "18:30",
+      "code": "PU-TE",
+      "name": "Parul Theory Exam",
+      "points": 20,
+      "createdAt": 1763186784697
+    },
+    {
+      "id": "x02j7h3jl",
+      "code": "F",
+      "name": "Fresh",
+      "points": 1,
+      "createdAt": 1762665715728,
+      "fromDate": "2025-11-09",
+      "fromTime": "20:02"
+    },
+    {
+      "id": "x0rseecm7",
+      "fromDate": "2025-11-11",
+      "fromTime": "16:15",
+      "code": "SP",
+      "name": "Shopping",
+      "points": 3,
+      "debit": 42,
+      "moneyCode": "INR",
+      "description": "Maggie + Yippee Maggie + Cheese Puffcorn = 42₹",
+      "createdAt": 1762839533232
+    },
+    {
+      "id": "x4w18lfzg",
+      "code": "D",
+      "name": "Dinner",
+      "points": 5,
+      "createdAt": 1762579055750,
+      "fromDate": "2025-11-08",
+      "fromTime": "21:25"
+    },
+    {
+      "id": "x5y99ru5x",
+      "code": "L",
+      "name": "Lunch",
+      "points": 4,
+      "createdAt": 1762301635147,
+      "fromDate": "2025-11-05",
+      "fromTime": "13:45"
+    },
+    {
+      "id": "x67jk83ut",
+      "code": "T",
+      "name": "Travel",
+      "points": 2,
+      "createdAt": 1764165108890,
+      "fromDate": "2025-11-26",
+      "fromTime": "08:10"
+    },
+    {
+      "id": "xc3ag6v0b",
+      "isLongEvent": true,
+      "fromDate": "2025-11-26",
+      "fromTime": "08:45",
+      "toDate": "2025-11-26",
+      "toTime": "16:00",
+      "code": "J",
+      "name": "Job",
+      "points": 15,
+      "createdAt": 1764165150079
+    },
+    {
+      "id": "xfch55i96",
+      "code": "T",
+      "name": "Travel",
+      "points": 2,
+      "createdAt": 1763361593010,
+      "fromDate": "2025-11-17",
+      "fromTime": "07:50"
+    },
+    {
+      "id": "xg8u5sfy0",
+      "code": "T",
+      "name": "Travel",
+      "points": 1,
+      "createdAt": 1774447200224,
+      "fromDate": "2025-11-07",
+      "fromTime": "16:15"
+    },
+    {
+      "id": "xkqcif4ey",
+      "code": "D",
+      "name": "Dinner",
+      "points": 4,
+      "createdAt": 1762388462429,
+      "fromDate": "2025-11-06",
+      "fromTime": "21:50"
+    },
+    {
+      "id": "xlu7jqnn3",
+      "isLongEvent": true,
+      "fromDate": "2025-11-27",
+      "fromTime": "14:50",
+      "toDate": "2025-11-27",
+      "toTime": "15:55",
+      "code": "ST",
+      "name": "Street Level",
+      "points": 5,
+      "createdAt": 1764252066862
+    },
+    {
+      "id": "xpaz36ggm",
+      "code": "T",
+      "name": "Travel",
+      "points": 2,
+      "createdAt": 1763709883904,
+      "fromDate": "2025-11-21",
+      "fromTime": "16:15"
+    },
+    {
+      "id": "xpw469rk7",
+      "code": "RUM",
+      "name": "RUM",
+      "points": 5,
+      "createdAt": 1764512558176,
+      "fromDate": "2025-11-30",
+      "fromTime": "19:55"
+    },
+    {
+      "id": "xz6qlx8rs",
+      "code": "D",
+      "name": "Dinner",
+      "points": 3,
+      "createdAt": 1763100081783,
+      "fromDate": "2025-11-14",
+      "fromTime": "21:04"
+    },
+    {
+      "id": "y0xoq4pph",
+      "code": "F",
+      "name": "Fresh",
+      "points": 1,
+      "createdAt": 1762926514144,
+      "fromDate": "2025-11-12",
+      "fromTime": "19:55"
+    },
+    {
+      "id": "y8q23xxfk",
+      "code": "BF",
+      "name": "Breakfast",
+      "points": 1,
+      "description": "Normal Tea + A Cup of Milk.",
+      "createdAt": 1774446932735,
+      "fromDate": "2025-11-07",
+      "fromTime": "07:10"
+    },
+    {
+      "id": "yip6jmozu",
+      "code": "F",
+      "name": "Fresh",
+      "points": 1,
+      "createdAt": 1763796360865,
+      "fromDate": "2025-11-22",
+      "fromTime": "20:50"
+    },
+    {
+      "id": "ykl7diev2",
+      "isLongEvent": true,
+      "fromDate": "2025-11-22",
+      "fromTime": "09:00",
+      "toDate": "2025-11-22",
+      "toTime": "11:00",
+      "code": "KBS-GB",
+      "name": "GovindBhai Work",
+      "points": 1,
+      "createdAt": 1763883393277
+    },
+    {
+      "id": "ynij1zoz9",
+      "code": "AU",
+      "name": "Auto",
+      "points": 1,
+      "createdAt": 1762153134010,
+      "fromDate": "2025-11-03",
+      "fromTime": "08:50"
+    },
+    {
+      "id": "ypprezbo0",
+      "code": "F",
+      "name": "Fresh",
+      "points": 1,
+      "createdAt": 1764512255588,
+      "fromDate": "2025-11-30",
+      "fromTime": "07:35"
+    },
+    {
+      "id": "yr3u6zt4a",
+      "isLongEvent": true,
+      "fromDate": "2025-11-17",
+      "fromTime": "14:46",
+      "toDate": "2025-11-17",
+      "toTime": "15:49",
+      "code": "ST",
+      "name": "Street Level",
+      "points": 5,
+      "createdAt": 1763361734037
+    },
+    {
+      "id": "yull3fsov",
+      "isLongEvent": true,
+      "fromDate": "2025-11-17",
+      "fromTime": "23:20",
+      "toDate": "2025-11-18",
+      "toTime": "07:00",
+      "code": "S",
+      "name": "Sleep",
+      "points": 10,
+      "createdAt": 1763361854750
+    },
+    {
+      "id": "yvu3pvsbn",
+      "isLongEvent": true,
+      "fromDate": "2025-11-25",
+      "fromTime": "13:25",
+      "toDate": "2025-11-25",
+      "toTime": "14:10",
+      "code": "ST",
+      "name": "Street Level",
+      "points": 2,
+      "createdAt": 1764078355268
+    },
+    {
+      "id": "z0msp80dc",
+      "code": "F",
+      "name": "Fresh",
+      "points": 2,
+      "createdAt": 1762752589026,
+      "fromDate": "2025-11-10",
+      "fromTime": "13:10"
+    },
+    {
+      "id": "z2zdg3tys",
+      "isLongEvent": true,
+      "fromDate": "2025-11-07",
+      "fromTime": "10:15",
+      "toDate": "2025-11-07",
+      "toTime": "13:00",
+      "code": "ST",
+      "name": "Street Level",
+      "points": 5,
+      "description": "Too much Students Hall Ticket to Verify and Sign...",
+      "createdAt": 1774447088197
+    },
+    {
+      "id": "z8wo2vp18",
+      "isLongEvent": true,
+      "fromDate": "2025-11-25",
+      "fromTime": "19:00",
+      "toDate": "2025-11-25",
+      "toTime": "20:35",
+      "code": "PU-PW",
+      "name": "Parul Project Work",
+      "points": 5,
+      "createdAt": 1764078501945
+    },
+    {
+      "id": "z93usapm7",
+      "code": "T",
+      "name": "Travel",
+      "points": 2,
+      "createdAt": 1764165231626,
+      "fromDate": "2025-11-26",
+      "fromTime": "16:05"
+    },
+    {
+      "id": "zclo9hqhc",
+      "code": "D",
+      "name": "Dinner",
+      "points": 2,
+      "createdAt": 1763621918199,
+      "fromDate": "2025-11-20",
+      "fromTime": "21:30"
+    },
+    {
+      "id": "zdik4vwjc",
+      "fromDate": "2025-11-03",
+      "fromTime": "12:17",
+      "code": "T",
+      "name": "Travel",
+      "points": 2,
+      "debit": 65,
+      "moneyCode": "INR",
+      "description": "Train Ticket Bought @ 65₹ Online Payment done.",
+      "createdAt": 1762154961601
+    },
+    {
+      "id": "zdqmfcykh",
+      "code": "T",
+      "name": "Travel",
+      "points": 2,
+      "createdAt": 1763013244276,
+      "fromDate": "2025-11-13",
+      "fromTime": "16:12"
+    },
+    {
+      "id": "zmebohjfk",
+      "code": "Q",
+      "name": "NoQuiteEscape",
+      "points": 2,
+      "createdAt": 1764512612757,
+      "fromDate": "2025-11-30",
+      "fromTime": "23:55"
+    },
+    {
+      "id": "znn3rc55t",
+      "code": "BF",
+      "name": "Breakfast",
+      "points": 2,
+      "createdAt": 1763013172501,
+      "fromDate": "2025-11-13",
+      "fromTime": "12:45"
+    },
+    {
+      "id": "zo320g6wx",
+      "code": "W",
+      "name": "Walking",
+      "points": 5,
+      "createdAt": 1763709957879,
+      "fromDate": "2025-11-21",
+      "fromTime": "18:20"
+    },
+    {
+      "id": "zol5po08l",
+      "code": "BF",
+      "name": "Breakfast",
+      "points": 2,
+      "createdAt": 1762926258611,
+      "fromDate": "2025-11-12",
+      "fromTime": "07:12"
+    },
+    {
+      "id": "zqs0doalr",
+      "code": "T",
+      "name": "Travel",
+      "points": 2,
+      "createdAt": 1763991562248,
+      "fromDate": "2025-11-24",
+      "fromTime": "16:10"
+    },
+    {
+      "id": "zt1cuag33",
+      "fromDate": "2025-11-04",
+      "fromTime": "19:27",
+      "code": "SL-MY",
+      "name": "Salary",
+      "points": 2,
+      "credit": 16000,
+      "moneyCode": "INR",
+      "createdAt": 1774634745963
+    }
+  ],
+  "goals": [
+    {
+      "id": "1ufow8bw4",
+      "deadlineMonth": "November",
+      "deadlineYear": 2025,
+      "code": "OFS-1125",
+      "name": "Office Survival",
+      "points": 300,
+      "createdAt": 1761976886003,
+      "achievedAt": "2025-11-29"
+    },
+    {
+      "id": "dqkz549eg",
+      "deadlineMonth": "November",
+      "deadlineYear": 2025,
+      "code": "DYF-1125",
+      "name": "Diary Formation",
+      "points": 150,
+      "createdAt": 1761976859351,
+      "achievedAt": "2025-11-05"
+    },
+    {
+      "id": "n0z1iw24u",
+      "deadlineMonth": "November",
+      "deadlineYear": 2025,
+      "code": "AC-1125",
+      "name": "Accident",
+      "points": 5,
+      "achievedAt": "2025-11-18",
+      "createdAt": 1763362026877
+    }
+  ],
+  "templates": [
+    {
+      "id": "1",
+      "code": "S",
+      "points": 10,
+      "name": "Sleep"
+    },
+    {
+      "id": "10",
+      "code": "SP",
+      "points": 15,
+      "name": "Shopping"
+    },
+    {
+      "id": "11",
+      "code": "Cr",
+      "points": 10,
+      "name": "Credit"
+    },
+    {
+      "id": "12",
+      "code": "Db",
+      "points": 10,
+      "name": "Debit"
+    },
+    {
+      "id": "13ehs1bc8",
+      "code": "AADCD",
+      "name": "Aadhar Card",
+      "points": 10
+    },
+    {
+      "id": "1co7r7uxx",
+      "code": "MH",
+      "name": "Mahadev Mandir",
+      "points": 5
+    },
+    {
+      "id": "2",
+      "code": "BF",
+      "points": 2,
+      "name": "Breakfast"
+    },
+    {
+      "id": "3",
+      "code": "M",
+      "points": 2,
+      "name": "Meal"
+    },
+    {
+      "id": "3529uz67q",
+      "code": "GMEET",
+      "name": "Google Meeting",
+      "points": 5
+    },
+    {
+      "id": "3nihvq05g",
+      "code": "F",
+      "name": "Fresh",
+      "points": 1
+    },
+    {
+      "id": "3qgeqoqit",
+      "code": "FO",
+      "name": "Food Order",
+      "points": 5
+    },
+    {
+      "id": "4",
+      "code": "L",
+      "points": 5,
+      "name": "Lunch"
+    },
+    {
+      "id": "4713amats",
+      "code": "MA",
+      "name": "Marriage Attend",
+      "points": 5
+    },
+    {
+      "id": "49i4zji1u",
+      "code": "GP",
+      "name": "Game Play",
+      "points": 10
+    },
+    {
+      "id": "4fhu8jbes",
+      "code": "ZMEET",
+      "name": "Zoom Meeting",
+      "points": 5
+    },
+    {
+      "id": "4r0jirfhn",
+      "code": "SL-MY",
+      "name": "Salary",
+      "points": 10
+    },
+    {
+      "id": "5",
+      "code": "D",
+      "points": 5,
+      "name": "Dinner"
+    },
+    {
+      "id": "5pr4k1tj3",
+      "code": "AWS-L",
+      "name": "AWS Learning",
+      "points": 20
+    },
+    {
+      "id": "5sa2uue41",
+      "code": "PCT",
+      "name": "Power Cut",
+      "points": 2
+    },
+    {
+      "id": "6",
+      "code": "R",
+      "points": 10,
+      "name": "Running"
+    },
+    {
+      "id": "6gyjtzzrl",
+      "code": "PH-R",
+      "name": "Phone Recharge",
+      "points": 5
+    },
+    {
+      "id": "7",
+      "code": "W",
+      "points": 10,
+      "name": "Walking"
+    },
+    {
+      "id": "7o5e2y52w",
+      "code": "CLS",
+      "name": "Cleaning",
+      "points": 10
+    },
+    {
+      "id": "8",
+      "code": "E",
+      "points": 10,
+      "name": "Exercise"
+    },
+    {
+      "id": "8r58zzx8v",
+      "code": "B",
+      "name": "Bath",
+      "points": 5
+    },
+    {
+      "id": "9",
+      "code": "Y",
+      "points": 10,
+      "name": "Yoga"
+    },
+    {
+      "id": "955ujqoab",
+      "code": "BEER",
+      "name": "Beer",
+      "points": 5
+    },
+    {
+      "id": "9g2q8o6lx",
+      "code": "W-MOV",
+      "name": "Movie",
+      "points": 5
+    },
+    {
+      "id": "9ry319bl6",
+      "code": "V.REC",
+      "name": "Video Recording",
+      "points": 10
+    },
+    {
+      "id": "a0gpga9up",
+      "code": "KBS-IMGS",
+      "name": "Image Scanning",
+      "points": 1
+    },
+    {
+      "id": "antme7foz",
+      "code": "WE",
+      "name": "Walk + Exercise",
+      "points": 20
+    },
+    {
+      "id": "cam2coyse",
+      "code": "H",
+      "name": "Hair Cutting",
+      "points": 5
+    },
+    {
+      "id": "d0gfk68xb",
+      "code": "PT",
+      "name": "Painting",
+      "points": 10
+    },
+    {
+      "id": "diuo7c9dl",
+      "code": "ADS-ME",
+      "name": "Ads Mining",
+      "points": 10
+    },
+    {
+      "id": "dy0o12pn2",
+      "code": "CICD-L",
+      "name": "CI/CD Learning",
+      "points": 5
+    },
+    {
+      "id": "eoxpr5wev",
+      "code": "W-CLOTH",
+      "name": "Washing Clothes",
+      "points": 10
+    },
+    {
+      "id": "ezquf13gd",
+      "code": "CODE",
+      "name": "Programming",
+      "points": 10
+    },
+    {
+      "id": "gst7ir33z",
+      "code": "PU-MT",
+      "name": "Parul University Meeting",
+      "points": 5
+    },
+    {
+      "id": "h071gsguk",
+      "code": "PBP-ME",
+      "name": "Phone Battery Problem",
+      "points": 5
+    },
+    {
+      "id": "h5vckyxri",
+      "code": "C",
+      "name": "Cooking",
+      "points": 5
+    },
+    {
+      "id": "h7mp68duy",
+      "code": "DK-L",
+      "name": "Docker Learning",
+      "points": 10
+    },
+    {
+      "id": "hf1bkky13",
+      "code": "PH",
+      "name": "Phone Call",
+      "points": 2
+    },
+    {
+      "id": "hoxbdggdo",
+      "code": "MEET",
+      "name": "Meeting",
+      "points": 5
+    },
+    {
+      "id": "j05f5ou2h",
+      "code": "PU-ME",
+      "name": "Parul Mock Exam",
+      "points": 10
+    },
+    {
+      "id": "jr5r0k4e8",
+      "code": "WR",
+      "name": "Walk + Run",
+      "points": 20
+    },
+    {
+      "id": "l038hghpg",
+      "code": "V.EDIT",
+      "name": "Video Editing",
+      "points": 10
+    },
+    {
+      "id": "maq1gmmhh",
+      "code": "ST",
+      "name": "Street Level",
+      "points": 5
+    },
+    {
+      "id": "milezrbbd",
+      "code": "PU-SY",
+      "name": "Parul University Study",
+      "points": 20
+    },
+    {
+      "id": "n435ob96w",
+      "code": "FTIME",
+      "name": "Free Time",
+      "points": 10
+    },
+    {
+      "id": "pfxffy8nb",
+      "code": "INT-ME",
+      "name": "Interview",
+      "points": 10
+    },
+    {
+      "id": "pogy3iroj",
+      "code": "J",
+      "name": "Job",
+      "points": 20
+    },
+    {
+      "id": "r7v787ug7",
+      "code": "RJS-L",
+      "name": "Reactjs Learning",
+      "points": 20
+    },
+    {
+      "id": "rz3t6qz68",
+      "code": "PU-PW",
+      "name": "Parul Project Work",
+      "points": 20
+    },
+    {
+      "id": "s6glacp4p",
+      "code": "Q",
+      "name": "NoQuiteEscape",
+      "points": 2
+    },
+    {
+      "id": "sbv7vxxon",
+      "code": "W-SER",
+      "name": "Series",
+      "points": 5
+    },
+    {
+      "id": "sk1fnoap0",
+      "code": "R.JS-PR",
+      "name": "Reactjs Project",
+      "points": 20
+    },
+    {
+      "id": "snlao93sb",
+      "code": "PANCD",
+      "name": "PAN card",
+      "points": 10
+    },
+    {
+      "id": "tcziavizp",
+      "code": "WRE",
+      "name": "Walk + Run + Exercise",
+      "points": 30
+    },
+    {
+      "id": "tu1eupigs",
+      "code": "PU-PE",
+      "name": "Parul Practical Exam",
+      "points": 20
+    },
+    {
+      "id": "u2t5823w9",
+      "code": "T",
+      "name": "Travel",
+      "points": 2
+    },
+    {
+      "id": "uq7jcdxn4",
+      "code": "PU-TE",
+      "name": "Parul Theory Exam",
+      "points": 20
+    },
+    {
+      "id": "w3v997xyl",
+      "code": "BK-AC",
+      "name": "Bank Account",
+      "points": 5
+    },
+    {
+      "id": "w6h5k4m7r",
+      "code": "M-CLOTH",
+      "name": "Managing Clothes",
+      "points": 5
+    },
+    {
+      "id": "xhmpa516i",
+      "code": "DR",
+      "name": "Drawing",
+      "points": 10
+    },
+    {
+      "id": "y5qa8niga",
+      "code": "TERR-L",
+      "name": "Terraform Learning",
+      "points": 10
+    },
+    {
+      "id": "zagp8asfl",
+      "code": "DIARY",
+      "name": "Diary",
+      "points": 10
+    }
+  ],
+  "autoTemplates": [
+    {
+      "isTab": true,
+      "name": "2026 Month End Backup",
+      "order": 1,
+      "id": "280726-0009"
+    },
+    {
+      "id": "280726-0010",
+      "fromTime": "23:59",
+      "code": "DIARY",
+      "name": "Diary",
+      "points": 2,
+      "description": "MMMM 2026 Exported \".json\" Database ✅",
+      "attachment": "https://code-dump-snowy.vercel.app/api/raw?path=uploads/drive/SoloDiary/DatabaseBackup/Backup-2026/01_db_JAN-2026.json",
+      "isEnabled": true,
+      "order": 2,
+      "tabId": "280726-0009"
+    },
+    {
+      "id": "280726-0011",
+      "fromTime": "23:58",
+      "code": "DIARY",
+      "name": "Diary",
+      "points": 2,
+      "description": "MMMM 2026 Diary Html Report Uploaded ✅",
+      "attachment": "https://code-dump-snowy.vercel.app/api/raw?path=uploads/drive/SoloDiary/ReportGenerated/Report-2026/01_html_JAN-2026.html",
+      "isEnabled": true,
+      "order": 1,
+      "tabId": "280726-0009"
+    },
+    {
+      "id": "280726-0012",
+      "fromTime": "23:57",
+      "code": "DIARY",
+      "name": "Diary",
+      "points": 2,
+      "description": "MMMM 2026 Image in PDF Format ✅",
+      "attachment": "https://code-dump-snowy.vercel.app/api/raw?path=uploads/drive/SoloDiary/SnapImages/Snap-2026/01_snap_images_JAN-2026.pdf",
+      "isEnabled": true,
+      "tabId": "280726-0009"
+    },
+    {
+      "id": "45594570-db40-4b7a-83e2-6a18261876c2",
+      "toTime": "23:58",
+      "code": "DIARY",
+      "name": "Diary",
+      "points": 2,
+      "description": "MONTH 2026 Image in PDF format ✅",
+      "order": 5,
+      "tabId": "default-tab"
+    },
+    {
+      "id": "77220d69-a408-4b75-918b-7f64f398816b",
+      "toTime": "06:40",
+      "code": "F",
+      "name": "Fresh",
+      "points": 1,
+      "order": 3,
+      "tabId": "default-tab"
+    },
+    {
+      "id": "8baf3c72-47ba-4847-8e12-dac8fa442f58",
+      "toTime": "06:40",
+      "code": "B",
+      "name": "Bath",
+      "points": 3,
+      "order": 1,
+      "tabId": "default-tab"
+    },
+    {
+      "id": "c8e59641-f461-4a80-a98e-91507dee826e",
+      "isLongEvent": true,
+      "fromTime": "23:00",
+      "toTime": "06:25",
+      "code": "S",
+      "name": "Sleep",
+      "points": 10,
+      "tabId": "default-tab"
+    },
+    {
+      "id": "d4fc4a23-4735-41d4-8fcd-49ddf46498b2",
+      "toTime": "06:55",
+      "code": "T",
+      "name": "Travel",
+      "points": 1,
+      "order": 2,
+      "tabId": "default-tab"
+    },
+    {
+      "id": "deaa18cd-a280-4b2d-bac6-e4bc19e92ac8",
+      "toTime": "23:59",
+      "code": "DIARY",
+      "name": "Diary",
+      "points": 2,
+      "description": "MONTH 2026 Diary Html File Uploaded ✅",
+      "order": 6,
+      "tabId": "default-tab"
+    },
+    {
+      "id": "default-tab",
+      "isTab": true,
+      "name": "General"
+    },
+    {
+      "id": "ec212649-1e40-4ea3-9a44-9d17402f8675",
+      "isLongEvent": true,
+      "fromTime": "07:00",
+      "toTime": "07:55",
+      "code": "WRE",
+      "name": "Walk + Run + Exercise",
+      "points": 30,
+      "description": "W = 6 | + | R =4 | = 10 | E = 10 | Code: W-0 • R-1 = 1101100000",
+      "order": 4,
+      "tabId": "default-tab"
+    }
+  ],
+  "exportedAt": "2025-11-30T23:59:59.999Z",
+  "version": "1.0.0",
+  "device": "Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/115.0"
+}
