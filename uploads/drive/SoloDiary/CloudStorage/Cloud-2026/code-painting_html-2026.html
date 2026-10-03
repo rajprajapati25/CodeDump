@@ -1,0 +1,149 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <style>
+        @page { size: A4; margin: 0; }
+        body { margin: 0; display: flex; justify-content: center; align-items: center; background: #e0e0e0; }
+        .a4-page {
+            width: 210mm;
+            height: 297mm;
+            background-color: #ffffff; /* White background */
+            position: relative;
+            overflow: hidden;
+            box-shadow: 0 0 10px rgba(0,0,0,0.1); /* Just for screen preview */
+        }
+        /* Layout container mimicking the painting */
+        .code-container {
+            position: absolute;
+            top: 80px;
+            left: 60px;
+            right: 60px;
+        }
+        .row { display: flex; align-items: center; margin-bottom: 25px; }
+        .bar { height: 24px; border-radius: 12px; margin-right: 15px; }
+        .circle { width: 24px; height: 24px; border-radius: 50%; margin-right: 15px; }
+        .text { 
+            position: absolute; 
+            bottom: 60px; 
+            right: 60px; 
+            font-family: Arial, Helvetica, sans-serif; 
+            font-weight: bold; 
+            font-size: 18px; 
+            color: #000000; 
+            letter-spacing: 1px;
+        }
+    </style>
+</head>
+<body>
+    <div class="a4-page">
+        <div class="code-container">
+            <!-- Row 1 -->
+            <div class="row" style="margin-left: -20px;">
+                <div class="bar" style="width: 70px; background: #FF3B30;"></div>
+                <div class="bar" style="width: 60px; background: #00C7BE;"></div>
+                <div class="bar" style="width: 50px; background: #FF3B30;"></div>
+                <div class="circle" style="background: #C7C7CC;"></div>
+                <div class="bar" style="width: 60px; background: #FFCC00;"></div>
+                <div class="circle" style="background: #C7C7CC;"></div>
+            </div>
+            <!-- Row 2 -->
+            <div class="row" style="margin-left: -20px;">
+                <div class="bar" style="width: 60px; background: #FF9500;"></div>
+                <div class="circle" style="background: #AF52DE;"></div>
+                <div class="circle" style="background: #00C7BE;"></div>
+            </div>
+            <!-- Row 3 -->
+            <div class="row" style="margin-left: -20px;">
+                <div class="bar" style="width: 70px; background: #FF3B30;"></div>
+                <div class="circle" style="background: #00C7BE;"></div>
+                <div class="bar" style="width: 60px; background: #FFCC00;"></div>
+                <div class="bar" style="width: 90px; background: #FF9500;"></div>
+                <div class="circle" style="background: #C7C7CC;"></div>
+                <!-- Changed Color Below -->
+                <div class="bar" style="width: 100px; background: #007AFF;"></div>
+                <div class="circle" style="background: #FFCC00;"></div>
+            </div>
+            <!-- Row 4 -->
+            <div class="row" style="margin-left: 0px;">
+                <div class="bar" style="width: 50px; background: #FF9500;"></div>
+                <div class="circle" style="background: #C7C7CC;"></div>
+                <div class="bar" style="width: 50px; background: #00C7BE;"></div>
+                <div class="circle" style="background: #34C759;"></div>
+                <div class="circle" style="background: #C7C7CC;"></div>
+            </div>
+            <!-- Row 5 -->
+            <div class="row" style="margin-left: -20px;">
+                <!-- Changed Color Below -->
+                <div class="bar" style="width: 70px; background: #007AFF;"></div>
+                <div class="circle" style="background: #C7C7CC;"></div>
+                <div class="circle" style="background: #FF2D55;"></div>
+            </div>
+            <!-- Row 6 -->
+            <div class="row" style="margin-left: -20px;">
+                <div class="circle" style="background: #00C7BE;"></div>
+            </div>
+            <!-- Row 7 -->
+            <div class="row">
+                <div class="bar" style="width: 50px; background: #FF9500;"></div>
+                <div class="circle" style="background: #C7C7CC;"></div>
+                <div class="bar" style="width: 100px; background: #00C7BE;"></div>
+                <div class="circle" style="background: #34C759;"></div>
+                <div class="bar" style="width: 40px; background: #FF9500;"></div>
+                <div class="bar" style="width: 90px; background: #AF52DE;"></div>
+                <div class="circle" style="background: #C7C7CC;"></div>
+                <div class="circle" style="background: #FFCC00;"></div>
+                <div class="circle" style="background: #FF9500;"></div>
+                
+            </div>
+            <!-- Row 8 -->
+            <div class="row">
+                <div class="circle" style="background: #AF52DE;"></div>
+            </div>
+            <!-- Row 9 -->
+            <div class="row">
+                <div class="bar" style="width: 90px; background: #FFCC00;"></div>
+                <div class="circle" style="background: #AF52DE;"></div>
+                <div class="circle" style="background: #AF52DE;"></div>
+                <div class="circle" style="background: #AF52DE;"></div>
+            </div>
+            <!-- Row 10 -->
+            <div class="row" style="margin-left: 20px;">
+                <div class="bar" style="width: 50px; background: #FF9500;"></div>
+                <div class="circle" style="background: #C7C7CC;"></div>
+                <div class="bar" style="width: 50px; background: #FFCC00;"></div>
+                <div class="circle" style="background: #C7C7CC;"></div>
+                <div class="bar" style="width: 90px; background: #00C7BE;"></div>
+                <div class="circle" style="background: #34C759;"></div>
+                <div class="circle" style="background: #FFCC00;"></div>
+            </div>
+            <!-- Row 11 -->
+            <div class="row" style="margin-left: 30px;">
+                <div class="bar" style="width: 70px; background: #FF3B30;"></div>
+                <div class="circle" style="background: #AF52DE;"></div>
+            </div>
+            <!-- Row 12 -->
+            <div class="row" style="margin-left: 20px;">
+                <!-- Changed Color Below -->
+                <div class="bar" style="width: 70px; background: #007AFF;"></div>
+                <div class="circle" style="background: #C7C7CC;"></div>
+                <div class="bar" style="width: 80px; background: #00C7BE;"></div>
+                <div class="circle" style="background: #C7C7CC;"></div>
+                <div class="bar" style="width: 50px; background: #00C7BE;"></div>
+                <div class="circle" style="background: #34C759;"></div>
+                <div class="circle" style="background: #FF2D55;"></div>
+            </div>
+            <!-- Row 13 -->
+            <div class="row">
+                <div class="circle" style="background: #00C7BE;"></div>
+                <div class="circle" style="background: #34C759;"></div>
+                <div class="circle" style="background: #AF52DE;"></div>
+            </div>
+            <!-- Bottom Left Dot -->
+            <div class="row" style="margin-left: -20px;">
+                <div class="circle" style="background: #FFCC00;"></div>
+            </div>
+        </div>
+        <div class="text">THE CODE</div>
+    </div>
+</body>
+</html>
